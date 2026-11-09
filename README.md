@@ -21,6 +21,13 @@ npm run dev    # Website tại http://localhost:5173
 
 Tài khoản demo: `lan@example.com` / `matkhau123`. Kiểm tra bản build bằng `npm run build`.
 
+## Triển khai (Vercel)
+
+- Bản build (`npm run build`) không cần JSON Server: web dùng máy chủ giả lập trong trình duyệt (`src/services/localApi.ts`), nạp sẵn dữ liệu từ `db.json` và lưu thay đổi vào `localStorage` của từng người xem.
+- `vercel.json` chuyển mọi đường dẫn về `index.html` để mở thẳng link như `/teachers/t1` không bị lỗi 404.
+- Trên Vercel: Import repo GitHub → Framework **Vite** → Build `npm run build` → Output `dist`. Không cần biến môi trường.
+- Muốn bản triển khai gọi tới một JSON Server thật, đặt `VITE_API_URL` là địa chỉ server đó.
+
 ## Màn hình
 
 | Mã | Đường dẫn | Màn hình | Cần đăng nhập |

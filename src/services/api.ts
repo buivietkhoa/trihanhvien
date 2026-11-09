@@ -2,12 +2,15 @@ import type { Booking, Course, Faq, Review, Transaction, User } from '../types'
 import type { TeacherProfile, TeacherQuery } from '../types/teacher'
 
 const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3001'
+// Bản build triển khai tĩnh (Vercel) không có JSON Server: dùng máy chủ giả lập trong trình duyệt.
+// Đặt VITE_API_URL=local để dùng chế độ này cả khi chạy trên máy.
+const USE_LOCAL = import.meta.env.VITE_API_URL === 'local' || (import.meta.env.PROD && !import.meta.env.VITE_API_URL)
 
 async function request(path: string, init?: RequestInit) {
-  const response = await fetch(`${API_URL}${path}`, {
-    ...init,
-    headers: init?.body ? { 'Content-Type': 'application/json' } : undefined,
-  })
+  const options = { ...init, headers: init?.body ? { 'Content-Type': 'application/json' } : undefined }
+  const response = USE_LOCAL
+    ? await (await import('./localApi')).localFetch(path, options)
+    : await fetch(`${API_URL}${path}`, options)
   if (!response.ok) throw new Error(`Mock API error: ${response.status}`)
   return response
 }
