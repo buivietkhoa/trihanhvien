@@ -1,0 +1,2060 @@
+{
+  "teachers": [
+    {
+      "id": "t1",
+      "name": "Vương Tuấn Kiệt",
+      "avatar": "/images/teachers/portrait-1.jpg",
+      "hsk": 6,
+      "price": 350000,
+      "mode": "online",
+      "rating": 5,
+      "reviews": 74,
+      "featured": true,
+      "featuredOrder": 3,
+      "bio": "Giao tiếp thực tế, phát âm chuẩn cho người mới bắt đầu.",
+      "ratingBreakdown": [
+        71,
+        3,
+        0,
+        0,
+        0
+      ],
+      "topics": "Giao tiếp · Thương mại · Luyện thi HSK",
+      "intro": [
+        "Chào bạn, mình là Kiệt – giáo viên tiếng Trung với hơn 8 năm kinh nghiệm dạy 1:1 cho người Việt. Mình từng du học và làm việc tại Thượng Hải, nên các buổi học luôn gắn với tình huống thực tế: giao tiếp hằng ngày, họp với đối tác, trao đổi với nhà cung cấp.",
+        "Mỗi buổi học được thiết kế riêng theo mục tiêu của bạn – từ phát âm cho người mới bắt đầu đến luyện thi HSK 5–6 theo chương trình mới."
+      ],
+      "certificates": [
+        "HSK 6 – 268/300 điểm",
+        "Chứng chỉ giảng dạy tiếng Trung quốc tế (CTCSOL)",
+        "Cử nhân Ngôn ngữ Trung Quốc – ĐH Hà Nội"
+      ],
+      "experience": [
+        {
+          "period": "2021 – nay",
+          "title": "Giáo viên 1:1 – MandarinConnect",
+          "description": "Hơn 1.200 buổi học, chủ yếu tiếng Trung giao tiếp và thương mại."
+        },
+        {
+          "period": "2018 – 2021",
+          "title": "Phiên dịch viên – Công ty thương mại tại Thượng Hải",
+          "description": "Phiên dịch họp, đàm phán và làm việc với nhà máy."
+        }
+      ]
+    },
+    {
+      "id": "t2",
+      "name": "Lục Thanh Bình",
+      "avatar": "/images/teachers/portrait-2.jpg",
+      "hsk": 6,
+      "price": 360000,
+      "mode": "online",
+      "rating": 5,
+      "reviews": 45,
+      "featured": false,
+      "bio": "Luyện thi HSK với lộ trình rõ ràng và bài tập cá nhân.",
+      "ratingBreakdown": [
+        43,
+        2,
+        0,
+        0,
+        0
+      ],
+      "topics": "Thương mại · Luyện thi HSK 5–6",
+      "intro": [
+        "Chào bạn, mình là Bình – giáo viên tiếng Trung với 4 năm kinh nghiệm dạy 1:1 cho người Việt. Luyện thi HSK với lộ trình rõ ràng và bài tập cá nhân.",
+        "Mỗi buổi học được thiết kế riêng theo mục tiêu của bạn, có bài tập ôn luyện và nhận xét sau mỗi buổi."
+      ],
+      "certificates": [
+        "HSK 6 – 237/300 điểm",
+        "Chứng chỉ giảng dạy tiếng Trung quốc tế (CTCSOL)",
+        "Cử nhân Sư phạm tiếng Trung – ĐH Ngoại ngữ, ĐHQGHN"
+      ],
+      "experience": [
+        {
+          "period": "2021 – nay",
+          "title": "Giáo viên 1:1 – MandarinConnect",
+          "description": "Hơn 340 buổi học 1:1 với học viên Việt Nam."
+        },
+        {
+          "period": "2018 – 2021",
+          "title": "Trợ giảng – Khoa Ngôn ngữ Trung Quốc",
+          "description": "Giảng dạy lớp nhóm và hỗ trợ học viên luyện thi HSK."
+        }
+      ]
+    },
+    {
+      "id": "t3",
+      "name": "Trương Lệ Quân",
+      "avatar": "/images/teachers/portrait-3.jpg",
+      "hsk": 6,
+      "price": 320000,
+      "mode": "online",
+      "rating": 4.9,
+      "reviews": 210,
+      "featured": false,
+      "bio": "Tiếng Trung thương mại và giao tiếp nơi công sở.",
+      "ratingBreakdown": [
+        179,
+        31,
+        0,
+        0,
+        0
+      ],
+      "topics": "Thương mại · Luyện thi HSK 5–6",
+      "intro": [
+        "Chào bạn, mình là Quân – giáo viên tiếng Trung với 5 năm kinh nghiệm dạy 1:1 cho người Việt. Tiếng Trung thương mại và giao tiếp nơi công sở.",
+        "Mỗi buổi học được thiết kế riêng theo mục tiêu của bạn, có bài tập ôn luyện và nhận xét sau mỗi buổi."
+      ],
+      "certificates": [
+        "HSK 6 – 244/300 điểm",
+        "Chứng chỉ giảng dạy tiếng Trung quốc tế (CTCSOL)",
+        "Thạc sĩ Hán ngữ quốc tế – ĐH Sư phạm Bắc Kinh"
+      ],
+      "experience": [
+        {
+          "period": "2021 – nay",
+          "title": "Giáo viên 1:1 – MandarinConnect",
+          "description": "Hơn 380 buổi học 1:1 với học viên Việt Nam."
+        },
+        {
+          "period": "2018 – 2021",
+          "title": "Phiên dịch viên – Công ty thương mại",
+          "description": "Giảng dạy lớp nhóm và hỗ trợ học viên luyện thi HSK."
+        }
+      ]
+    },
+    {
+      "id": "t4",
+      "name": "Lý Minh Hoa",
+      "avatar": "/images/teachers/portrait-4.jpg",
+      "hsk": 6,
+      "price": 280000,
+      "mode": "online",
+      "rating": 4.9,
+      "reviews": 128,
+      "featured": true,
+      "featuredOrder": 1,
+      "bio": "Học qua hội thoại, tự tin sử dụng tiếng Trung mỗi ngày.",
+      "ratingBreakdown": [
+        109,
+        19,
+        0,
+        0,
+        0
+      ],
+      "topics": "Thương mại · Luyện thi HSK 5–6",
+      "intro": [
+        "Chào bạn, mình là Hoa – giáo viên tiếng Trung với 6 năm kinh nghiệm dạy 1:1 cho người Việt. Học qua hội thoại, tự tin sử dụng tiếng Trung mỗi ngày.",
+        "Mỗi buổi học được thiết kế riêng theo mục tiêu của bạn, có bài tập ôn luyện và nhận xét sau mỗi buổi."
+      ],
+      "certificates": [
+        "HSK 6 – 251/300 điểm",
+        "Chứng chỉ giảng dạy tiếng Trung quốc tế (CTCSOL)",
+        "Cử nhân Ngôn ngữ Trung Quốc – ĐH Hà Nội"
+      ],
+      "experience": [
+        {
+          "period": "2021 – nay",
+          "title": "Giáo viên 1:1 – MandarinConnect",
+          "description": "Hơn 420 buổi học 1:1 với học viên Việt Nam."
+        },
+        {
+          "period": "2018 – 2021",
+          "title": "Giáo viên – Trung tâm tiếng Trung tại Hà Nội",
+          "description": "Giảng dạy lớp nhóm và hỗ trợ học viên luyện thi HSK."
+        }
+      ]
+    },
+    {
+      "id": "t5",
+      "name": "Triệu Vĩ Thành",
+      "avatar": "/images/teachers/portrait-5.jpg",
+      "hsk": 6,
+      "price": 380000,
+      "mode": "online",
+      "rating": 4.9,
+      "reviews": 59,
+      "featured": false,
+      "bio": "Giao tiếp thực tế, phát âm chuẩn cho người mới bắt đầu.",
+      "ratingBreakdown": [
+        51,
+        8,
+        0,
+        0,
+        0
+      ],
+      "topics": "Thương mại · Luyện thi HSK 5–6",
+      "intro": [
+        "Chào bạn, mình là Thành – giáo viên tiếng Trung với 7 năm kinh nghiệm dạy 1:1 cho người Việt. Giao tiếp thực tế, phát âm chuẩn cho người mới bắt đầu.",
+        "Mỗi buổi học được thiết kế riêng theo mục tiêu của bạn, có bài tập ôn luyện và nhận xét sau mỗi buổi."
+      ],
+      "certificates": [
+        "HSK 6 – 258/300 điểm",
+        "Chứng chỉ giảng dạy tiếng Trung quốc tế (CTCSOL)",
+        "Cử nhân Sư phạm tiếng Trung – ĐH Ngoại ngữ, ĐHQGHN"
+      ],
+      "experience": [
+        {
+          "period": "2021 – nay",
+          "title": "Giáo viên 1:1 – MandarinConnect",
+          "description": "Hơn 460 buổi học 1:1 với học viên Việt Nam."
+        },
+        {
+          "period": "2018 – 2021",
+          "title": "Trợ giảng – Khoa Ngôn ngữ Trung Quốc",
+          "description": "Giảng dạy lớp nhóm và hỗ trợ học viên luyện thi HSK."
+        }
+      ]
+    },
+    {
+      "id": "t6",
+      "name": "Đặng Bảo Ngọc",
+      "avatar": "/images/teachers/portrait-6.jpg",
+      "hsk": 6,
+      "price": 300000,
+      "mode": "hybrid",
+      "rating": 4.8,
+      "reviews": 133,
+      "featured": false,
+      "bio": "Luyện thi HSK với lộ trình rõ ràng và bài tập cá nhân.",
+      "ratingBreakdown": [
+        100,
+        33,
+        0,
+        0,
+        0
+      ],
+      "topics": "Thương mại · Luyện thi HSK 5–6",
+      "intro": [
+        "Chào bạn, mình là Ngọc – giáo viên tiếng Trung với 8 năm kinh nghiệm dạy 1:1 cho người Việt. Luyện thi HSK với lộ trình rõ ràng và bài tập cá nhân.",
+        "Mỗi buổi học được thiết kế riêng theo mục tiêu của bạn, có bài tập ôn luyện và nhận xét sau mỗi buổi."
+      ],
+      "certificates": [
+        "HSK 6 – 265/300 điểm",
+        "Chứng chỉ giảng dạy tiếng Trung quốc tế (CTCSOL)",
+        "Thạc sĩ Hán ngữ quốc tế – ĐH Sư phạm Bắc Kinh"
+      ],
+      "experience": [
+        {
+          "period": "2021 – nay",
+          "title": "Giáo viên 1:1 – MandarinConnect",
+          "description": "Hơn 500 buổi học 1:1 với học viên Việt Nam."
+        },
+        {
+          "period": "2018 – 2021",
+          "title": "Phiên dịch viên – Công ty thương mại",
+          "description": "Giảng dạy lớp nhóm và hỗ trợ học viên luyện thi HSK."
+        }
+      ]
+    },
+    {
+      "id": "t7",
+      "name": "Trần Thu Hà",
+      "avatar": "/images/teachers/portrait-1.jpg",
+      "hsk": 5,
+      "price": 220000,
+      "mode": "hybrid",
+      "rating": 4.8,
+      "reviews": 96,
+      "featured": true,
+      "featuredOrder": 2,
+      "bio": "Tiếng Trung thương mại và giao tiếp nơi công sở.",
+      "ratingBreakdown": [
+        72,
+        24,
+        0,
+        0,
+        0
+      ],
+      "topics": "Luyện thi HSK 5 · Đọc hiểu",
+      "intro": [
+        "Chào bạn, mình là Hà – giáo viên tiếng Trung với 3 năm kinh nghiệm dạy 1:1 cho người Việt. Tiếng Trung thương mại và giao tiếp nơi công sở.",
+        "Mỗi buổi học được thiết kế riêng theo mục tiêu của bạn, có bài tập ôn luyện và nhận xét sau mỗi buổi."
+      ],
+      "certificates": [
+        "HSK 5 – 272/300 điểm",
+        "Chứng chỉ giảng dạy tiếng Trung quốc tế (CTCSOL)",
+        "Cử nhân Ngôn ngữ Trung Quốc – ĐH Hà Nội"
+      ],
+      "experience": [
+        {
+          "period": "2021 – nay",
+          "title": "Giáo viên 1:1 – MandarinConnect",
+          "description": "Hơn 540 buổi học 1:1 với học viên Việt Nam."
+        },
+        {
+          "period": "2018 – 2021",
+          "title": "Giáo viên – Trung tâm tiếng Trung tại Hà Nội",
+          "description": "Giảng dạy lớp nhóm và hỗ trợ học viên luyện thi HSK."
+        }
+      ]
+    },
+    {
+      "id": "t8",
+      "name": "Tô Ngọc Diệp",
+      "avatar": "/images/teachers/portrait-2.jpg",
+      "hsk": 5,
+      "price": 250000,
+      "mode": "hybrid",
+      "rating": 4.8,
+      "reviews": 91,
+      "featured": false,
+      "bio": "Học qua hội thoại, tự tin sử dụng tiếng Trung mỗi ngày.",
+      "ratingBreakdown": [
+        69,
+        22,
+        0,
+        0,
+        0
+      ],
+      "topics": "Luyện thi HSK 5 · Đọc hiểu",
+      "intro": [
+        "Chào bạn, mình là Diệp – giáo viên tiếng Trung với 4 năm kinh nghiệm dạy 1:1 cho người Việt. Học qua hội thoại, tự tin sử dụng tiếng Trung mỗi ngày.",
+        "Mỗi buổi học được thiết kế riêng theo mục tiêu của bạn, có bài tập ôn luyện và nhận xét sau mỗi buổi."
+      ],
+      "certificates": [
+        "HSK 5 – 279/300 điểm",
+        "Chứng chỉ giảng dạy tiếng Trung quốc tế (CTCSOL)",
+        "Cử nhân Sư phạm tiếng Trung – ĐH Ngoại ngữ, ĐHQGHN"
+      ],
+      "experience": [
+        {
+          "period": "2021 – nay",
+          "title": "Giáo viên 1:1 – MandarinConnect",
+          "description": "Hơn 580 buổi học 1:1 với học viên Việt Nam."
+        },
+        {
+          "period": "2018 – 2021",
+          "title": "Trợ giảng – Khoa Ngôn ngữ Trung Quốc",
+          "description": "Giảng dạy lớp nhóm và hỗ trợ học viên luyện thi HSK."
+        }
+      ]
+    },
+    {
+      "id": "t9",
+      "name": "Hoàng Mai Anh",
+      "avatar": "/images/teachers/portrait-3.jpg",
+      "hsk": 5,
+      "price": 240000,
+      "mode": "online",
+      "rating": 4.8,
+      "reviews": 87,
+      "featured": false,
+      "bio": "Giao tiếp thực tế, phát âm chuẩn cho người mới bắt đầu.",
+      "ratingBreakdown": [
+        66,
+        21,
+        0,
+        0,
+        0
+      ],
+      "topics": "Luyện thi HSK 5 · Đọc hiểu",
+      "intro": [
+        "Chào bạn, mình là Anh – giáo viên tiếng Trung với 5 năm kinh nghiệm dạy 1:1 cho người Việt. Giao tiếp thực tế, phát âm chuẩn cho người mới bắt đầu.",
+        "Mỗi buổi học được thiết kế riêng theo mục tiêu của bạn, có bài tập ôn luyện và nhận xét sau mỗi buổi."
+      ],
+      "certificates": [
+        "HSK 5 – 286/300 điểm",
+        "Chứng chỉ giảng dạy tiếng Trung quốc tế (CTCSOL)",
+        "Thạc sĩ Hán ngữ quốc tế – ĐH Sư phạm Bắc Kinh"
+      ],
+      "experience": [
+        {
+          "period": "2021 – nay",
+          "title": "Giáo viên 1:1 – MandarinConnect",
+          "description": "Hơn 620 buổi học 1:1 với học viên Việt Nam."
+        },
+        {
+          "period": "2018 – 2021",
+          "title": "Phiên dịch viên – Công ty thương mại",
+          "description": "Giảng dạy lớp nhóm và hỗ trợ học viên luyện thi HSK."
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "name": "Nguyễn Thảo Vy",
+      "avatar": "/images/teachers/portrait-4.jpg",
+      "hsk": 4,
+      "price": 180000,
+      "mode": "online",
+      "rating": 4.7,
+      "reviews": 152,
+      "featured": true,
+      "featuredOrder": 4,
+      "bio": "Luyện thi HSK với lộ trình rõ ràng và bài tập cá nhân.",
+      "ratingBreakdown": [
+        99,
+        53,
+        0,
+        0,
+        0
+      ],
+      "topics": "Giao tiếp · Luyện thi HSK 4",
+      "intro": [
+        "Chào bạn, mình là Vy – giáo viên tiếng Trung với 6 năm kinh nghiệm dạy 1:1 cho người Việt. Luyện thi HSK với lộ trình rõ ràng và bài tập cá nhân.",
+        "Mỗi buổi học được thiết kế riêng theo mục tiêu của bạn, có bài tập ôn luyện và nhận xét sau mỗi buổi."
+      ],
+      "certificates": [
+        "HSK 5 – 233/300 điểm",
+        "Chứng chỉ giảng dạy tiếng Trung quốc tế (CTCSOL)",
+        "Cử nhân Ngôn ngữ Trung Quốc – ĐH Hà Nội"
+      ],
+      "experience": [
+        {
+          "period": "2021 – nay",
+          "title": "Giáo viên 1:1 – MandarinConnect",
+          "description": "Hơn 660 buổi học 1:1 với học viên Việt Nam."
+        },
+        {
+          "period": "2018 – 2021",
+          "title": "Giáo viên – Trung tâm tiếng Trung tại Hà Nội",
+          "description": "Giảng dạy lớp nhóm và hỗ trợ học viên luyện thi HSK."
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "name": "Trần Vũ Hạo",
+      "avatar": "/images/teachers/portrait-5.jpg",
+      "hsk": 2,
+      "price": 160000,
+      "mode": "offline",
+      "rating": 4.7,
+      "reviews": 39,
+      "featured": false,
+      "bio": "Luyện thi HSK với lộ trình rõ ràng và bài tập cá nhân.",
+      "ratingBreakdown": [
+        26,
+        13,
+        0,
+        0,
+        0
+      ],
+      "topics": "Giao tiếp · Phát âm · HSK 1–2",
+      "intro": [
+        "Chào bạn, mình là Hạo – giáo viên tiếng Trung với 7 năm kinh nghiệm dạy 1:1 cho người Việt. Luyện thi HSK với lộ trình rõ ràng và bài tập cá nhân.",
+        "Mỗi buổi học được thiết kế riêng theo mục tiêu của bạn, có bài tập ôn luyện và nhận xét sau mỗi buổi."
+      ],
+      "certificates": [
+        "HSK 5 – 240/300 điểm",
+        "Chứng chỉ giảng dạy tiếng Trung quốc tế (CTCSOL)",
+        "Cử nhân Sư phạm tiếng Trung – ĐH Ngoại ngữ, ĐHQGHN"
+      ],
+      "experience": [
+        {
+          "period": "2021 – nay",
+          "title": "Giáo viên 1:1 – MandarinConnect",
+          "description": "Hơn 700 buổi học 1:1 với học viên Việt Nam."
+        },
+        {
+          "period": "2018 – 2021",
+          "title": "Trợ giảng – Khoa Ngôn ngữ Trung Quốc",
+          "description": "Giảng dạy lớp nhóm và hỗ trợ học viên luyện thi HSK."
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "name": "Nguyễn Mỹ Linh",
+      "avatar": "/images/teachers/portrait-6.jpg",
+      "hsk": 3,
+      "price": 220000,
+      "mode": "hybrid",
+      "rating": 4.5,
+      "reviews": 50,
+      "featured": false,
+      "bio": "Tiếng Trung thương mại và giao tiếp nơi công sở.",
+      "ratingBreakdown": [
+        23,
+        27,
+        0,
+        0,
+        0
+      ],
+      "topics": "Giao tiếp · Luyện thi HSK 3",
+      "intro": [
+        "Chào bạn, mình là Linh – giáo viên tiếng Trung với 8 năm kinh nghiệm dạy 1:1 cho người Việt. Tiếng Trung thương mại và giao tiếp nơi công sở.",
+        "Mỗi buổi học được thiết kế riêng theo mục tiêu của bạn, có bài tập ôn luyện và nhận xét sau mỗi buổi."
+      ],
+      "certificates": [
+        "HSK 5 – 247/300 điểm",
+        "Chứng chỉ giảng dạy tiếng Trung quốc tế (CTCSOL)",
+        "Thạc sĩ Hán ngữ quốc tế – ĐH Sư phạm Bắc Kinh"
+      ],
+      "experience": [
+        {
+          "period": "2021 – nay",
+          "title": "Giáo viên 1:1 – MandarinConnect",
+          "description": "Hơn 740 buổi học 1:1 với học viên Việt Nam."
+        },
+        {
+          "period": "2018 – 2021",
+          "title": "Phiên dịch viên – Công ty thương mại",
+          "description": "Giảng dạy lớp nhóm và hỗ trợ học viên luyện thi HSK."
+        }
+      ]
+    },
+    {
+      "id": "t13",
+      "name": "Vương Tiểu Mai",
+      "avatar": "/images/teachers/portrait-1.jpg",
+      "hsk": 4,
+      "price": 280000,
+      "mode": "online",
+      "rating": 4.2,
+      "reviews": 61,
+      "featured": false,
+      "bio": "Học qua hội thoại, tự tin sử dụng tiếng Trung mỗi ngày.",
+      "ratingBreakdown": [
+        10,
+        51,
+        0,
+        0,
+        0
+      ],
+      "topics": "Giao tiếp · Luyện thi HSK 4",
+      "intro": [
+        "Chào bạn, mình là Mai – giáo viên tiếng Trung với 3 năm kinh nghiệm dạy 1:1 cho người Việt. Học qua hội thoại, tự tin sử dụng tiếng Trung mỗi ngày.",
+        "Mỗi buổi học được thiết kế riêng theo mục tiêu của bạn, có bài tập ôn luyện và nhận xét sau mỗi buổi."
+      ],
+      "certificates": [
+        "HSK 5 – 254/300 điểm",
+        "Chứng chỉ giảng dạy tiếng Trung quốc tế (CTCSOL)",
+        "Cử nhân Ngôn ngữ Trung Quốc – ĐH Hà Nội"
+      ],
+      "experience": [
+        {
+          "period": "2021 – nay",
+          "title": "Giáo viên 1:1 – MandarinConnect",
+          "description": "Hơn 780 buổi học 1:1 với học viên Việt Nam."
+        },
+        {
+          "period": "2018 – 2021",
+          "title": "Giáo viên – Trung tâm tiếng Trung tại Hà Nội",
+          "description": "Giảng dạy lớp nhóm và hỗ trợ học viên luyện thi HSK."
+        }
+      ]
+    },
+    {
+      "id": "t14",
+      "name": "Lưu Gia Hân",
+      "avatar": "/images/teachers/portrait-2.jpg",
+      "hsk": 5,
+      "price": 340000,
+      "mode": "offline",
+      "rating": 4.7,
+      "reviews": 72,
+      "featured": false,
+      "bio": "Giao tiếp thực tế, phát âm chuẩn cho người mới bắt đầu.",
+      "ratingBreakdown": [
+        47,
+        25,
+        0,
+        0,
+        0
+      ],
+      "topics": "Luyện thi HSK 5 · Đọc hiểu",
+      "intro": [
+        "Chào bạn, mình là Hân – giáo viên tiếng Trung với 4 năm kinh nghiệm dạy 1:1 cho người Việt. Giao tiếp thực tế, phát âm chuẩn cho người mới bắt đầu.",
+        "Mỗi buổi học được thiết kế riêng theo mục tiêu của bạn, có bài tập ôn luyện và nhận xét sau mỗi buổi."
+      ],
+      "certificates": [
+        "HSK 5 – 261/300 điểm",
+        "Chứng chỉ giảng dạy tiếng Trung quốc tế (CTCSOL)",
+        "Cử nhân Sư phạm tiếng Trung – ĐH Ngoại ngữ, ĐHQGHN"
+      ],
+      "experience": [
+        {
+          "period": "2021 – nay",
+          "title": "Giáo viên 1:1 – MandarinConnect",
+          "description": "Hơn 820 buổi học 1:1 với học viên Việt Nam."
+        },
+        {
+          "period": "2018 – 2021",
+          "title": "Trợ giảng – Khoa Ngôn ngữ Trung Quốc",
+          "description": "Giảng dạy lớp nhóm và hỗ trợ học viên luyện thi HSK."
+        }
+      ]
+    },
+    {
+      "id": "t15",
+      "name": "Trương Minh",
+      "avatar": "/images/teachers/portrait-3.jpg",
+      "hsk": 6,
+      "price": 140000,
+      "mode": "hybrid",
+      "rating": 4.6,
+      "reviews": 83,
+      "featured": false,
+      "bio": "Luyện thi HSK với lộ trình rõ ràng và bài tập cá nhân.",
+      "ratingBreakdown": [
+        46,
+        37,
+        0,
+        0,
+        0
+      ],
+      "topics": "Thương mại · Luyện thi HSK 5–6",
+      "intro": [
+        "Chào bạn, mình là Minh – giáo viên tiếng Trung với 5 năm kinh nghiệm dạy 1:1 cho người Việt. Luyện thi HSK với lộ trình rõ ràng và bài tập cá nhân.",
+        "Mỗi buổi học được thiết kế riêng theo mục tiêu của bạn, có bài tập ôn luyện và nhận xét sau mỗi buổi."
+      ],
+      "certificates": [
+        "HSK 6 – 268/300 điểm",
+        "Chứng chỉ giảng dạy tiếng Trung quốc tế (CTCSOL)",
+        "Thạc sĩ Hán ngữ quốc tế – ĐH Sư phạm Bắc Kinh"
+      ],
+      "experience": [
+        {
+          "period": "2021 – nay",
+          "title": "Giáo viên 1:1 – MandarinConnect",
+          "description": "Hơn 860 buổi học 1:1 với học viên Việt Nam."
+        },
+        {
+          "period": "2018 – 2021",
+          "title": "Phiên dịch viên – Công ty thương mại",
+          "description": "Giảng dạy lớp nhóm và hỗ trợ học viên luyện thi HSK."
+        }
+      ]
+    },
+    {
+      "id": "t16",
+      "name": "Lý Ngọc Anh",
+      "avatar": "/images/teachers/portrait-4.jpg",
+      "hsk": 1,
+      "price": 200000,
+      "mode": "offline",
+      "rating": 4.3,
+      "reviews": 94,
+      "featured": false,
+      "bio": "Tiếng Trung thương mại và giao tiếp nơi công sở.",
+      "ratingBreakdown": [
+        24,
+        70,
+        0,
+        0,
+        0
+      ],
+      "topics": "Giao tiếp · Phát âm · Người mới bắt đầu",
+      "intro": [
+        "Chào bạn, mình là Anh – giáo viên tiếng Trung với 6 năm kinh nghiệm dạy 1:1 cho người Việt. Tiếng Trung thương mại và giao tiếp nơi công sở.",
+        "Mỗi buổi học được thiết kế riêng theo mục tiêu của bạn, có bài tập ôn luyện và nhận xét sau mỗi buổi."
+      ],
+      "certificates": [
+        "HSK 5 – 275/300 điểm",
+        "Chứng chỉ giảng dạy tiếng Trung quốc tế (CTCSOL)",
+        "Cử nhân Ngôn ngữ Trung Quốc – ĐH Hà Nội"
+      ],
+      "experience": [
+        {
+          "period": "2021 – nay",
+          "title": "Giáo viên 1:1 – MandarinConnect",
+          "description": "Hơn 900 buổi học 1:1 với học viên Việt Nam."
+        },
+        {
+          "period": "2018 – 2021",
+          "title": "Giáo viên – Trung tâm tiếng Trung tại Hà Nội",
+          "description": "Giảng dạy lớp nhóm và hỗ trợ học viên luyện thi HSK."
+        }
+      ]
+    },
+    {
+      "id": "t17",
+      "name": "Châu Tuấn Kiệt",
+      "avatar": "/images/teachers/portrait-5.jpg",
+      "hsk": 2,
+      "price": 260000,
+      "mode": "hybrid",
+      "rating": 4.7,
+      "reviews": 105,
+      "featured": false,
+      "bio": "Học qua hội thoại, tự tin sử dụng tiếng Trung mỗi ngày.",
+      "ratingBreakdown": [
+        69,
+        36,
+        0,
+        0,
+        0
+      ],
+      "topics": "Giao tiếp · Phát âm · HSK 1–2",
+      "intro": [
+        "Chào bạn, mình là Kiệt – giáo viên tiếng Trung với 7 năm kinh nghiệm dạy 1:1 cho người Việt. Học qua hội thoại, tự tin sử dụng tiếng Trung mỗi ngày.",
+        "Mỗi buổi học được thiết kế riêng theo mục tiêu của bạn, có bài tập ôn luyện và nhận xét sau mỗi buổi."
+      ],
+      "certificates": [
+        "HSK 5 – 282/300 điểm",
+        "Chứng chỉ giảng dạy tiếng Trung quốc tế (CTCSOL)",
+        "Cử nhân Sư phạm tiếng Trung – ĐH Ngoại ngữ, ĐHQGHN"
+      ],
+      "experience": [
+        {
+          "period": "2021 – nay",
+          "title": "Giáo viên 1:1 – MandarinConnect",
+          "description": "Hơn 940 buổi học 1:1 với học viên Việt Nam."
+        },
+        {
+          "period": "2018 – 2021",
+          "title": "Trợ giảng – Khoa Ngôn ngữ Trung Quốc",
+          "description": "Giảng dạy lớp nhóm và hỗ trợ học viên luyện thi HSK."
+        }
+      ]
+    },
+    {
+      "id": "t18",
+      "name": "Hoàng Thanh Hà",
+      "avatar": "/images/teachers/portrait-6.jpg",
+      "hsk": 3,
+      "price": 320000,
+      "mode": "online",
+      "rating": 4.7,
+      "reviews": 116,
+      "featured": false,
+      "bio": "Giao tiếp thực tế, phát âm chuẩn cho người mới bắt đầu.",
+      "ratingBreakdown": [
+        76,
+        40,
+        0,
+        0,
+        0
+      ],
+      "topics": "Giao tiếp · Luyện thi HSK 3",
+      "intro": [
+        "Chào bạn, mình là Hà – giáo viên tiếng Trung với 8 năm kinh nghiệm dạy 1:1 cho người Việt. Giao tiếp thực tế, phát âm chuẩn cho người mới bắt đầu.",
+        "Mỗi buổi học được thiết kế riêng theo mục tiêu của bạn, có bài tập ôn luyện và nhận xét sau mỗi buổi."
+      ],
+      "certificates": [
+        "HSK 5 – 289/300 điểm",
+        "Chứng chỉ giảng dạy tiếng Trung quốc tế (CTCSOL)",
+        "Thạc sĩ Hán ngữ quốc tế – ĐH Sư phạm Bắc Kinh"
+      ],
+      "experience": [
+        {
+          "period": "2021 – nay",
+          "title": "Giáo viên 1:1 – MandarinConnect",
+          "description": "Hơn 980 buổi học 1:1 với học viên Việt Nam."
+        },
+        {
+          "period": "2018 – 2021",
+          "title": "Phiên dịch viên – Công ty thương mại",
+          "description": "Giảng dạy lớp nhóm và hỗ trợ học viên luyện thi HSK."
+        }
+      ]
+    },
+    {
+      "id": "t19",
+      "name": "Trần Hiểu Đông",
+      "avatar": "/images/teachers/portrait-1.jpg",
+      "hsk": 4,
+      "price": 120000,
+      "mode": "offline",
+      "rating": 4.4,
+      "reviews": 127,
+      "featured": false,
+      "bio": "Luyện thi HSK với lộ trình rõ ràng và bài tập cá nhân.",
+      "ratingBreakdown": [
+        45,
+        82,
+        0,
+        0,
+        0
+      ],
+      "topics": "Giao tiếp · Luyện thi HSK 4",
+      "intro": [
+        "Chào bạn, mình là Đông – giáo viên tiếng Trung với 3 năm kinh nghiệm dạy 1:1 cho người Việt. Luyện thi HSK với lộ trình rõ ràng và bài tập cá nhân.",
+        "Mỗi buổi học được thiết kế riêng theo mục tiêu của bạn, có bài tập ôn luyện và nhận xét sau mỗi buổi."
+      ],
+      "certificates": [
+        "HSK 5 – 236/300 điểm",
+        "Chứng chỉ giảng dạy tiếng Trung quốc tế (CTCSOL)",
+        "Cử nhân Ngôn ngữ Trung Quốc – ĐH Hà Nội"
+      ],
+      "experience": [
+        {
+          "period": "2021 – nay",
+          "title": "Giáo viên 1:1 – MandarinConnect",
+          "description": "Hơn 1020 buổi học 1:1 với học viên Việt Nam."
+        },
+        {
+          "period": "2018 – 2021",
+          "title": "Giáo viên – Trung tâm tiếng Trung tại Hà Nội",
+          "description": "Giảng dạy lớp nhóm và hỗ trợ học viên luyện thi HSK."
+        }
+      ]
+    },
+    {
+      "id": "t20",
+      "name": "Vương Nhã Kỳ",
+      "avatar": "/images/teachers/portrait-2.jpg",
+      "hsk": 5,
+      "price": 180000,
+      "mode": "hybrid",
+      "rating": 4.1,
+      "reviews": 138,
+      "featured": false,
+      "bio": "Tiếng Trung thương mại và giao tiếp nơi công sở.",
+      "ratingBreakdown": [
+        7,
+        131,
+        0,
+        0,
+        0
+      ],
+      "topics": "Luyện thi HSK 5 · Đọc hiểu",
+      "intro": [
+        "Chào bạn, mình là Kỳ – giáo viên tiếng Trung với 4 năm kinh nghiệm dạy 1:1 cho người Việt. Tiếng Trung thương mại và giao tiếp nơi công sở.",
+        "Mỗi buổi học được thiết kế riêng theo mục tiêu của bạn, có bài tập ôn luyện và nhận xét sau mỗi buổi."
+      ],
+      "certificates": [
+        "HSK 5 – 243/300 điểm",
+        "Chứng chỉ giảng dạy tiếng Trung quốc tế (CTCSOL)",
+        "Cử nhân Sư phạm tiếng Trung – ĐH Ngoại ngữ, ĐHQGHN"
+      ],
+      "experience": [
+        {
+          "period": "2021 – nay",
+          "title": "Giáo viên 1:1 – MandarinConnect",
+          "description": "Hơn 1060 buổi học 1:1 với học viên Việt Nam."
+        },
+        {
+          "period": "2018 – 2021",
+          "title": "Trợ giảng – Khoa Ngôn ngữ Trung Quốc",
+          "description": "Giảng dạy lớp nhóm và hỗ trợ học viên luyện thi HSK."
+        }
+      ]
+    },
+    {
+      "id": "t21",
+      "name": "Lưu Minh Đức",
+      "avatar": "/images/teachers/portrait-3.jpg",
+      "hsk": 6,
+      "price": 240000,
+      "mode": "online",
+      "rating": 4.7,
+      "reviews": 149,
+      "featured": false,
+      "bio": "Học qua hội thoại, tự tin sử dụng tiếng Trung mỗi ngày.",
+      "ratingBreakdown": [
+        97,
+        52,
+        0,
+        0,
+        0
+      ],
+      "topics": "Thương mại · Luyện thi HSK 5–6",
+      "intro": [
+        "Chào bạn, mình là Đức – giáo viên tiếng Trung với 5 năm kinh nghiệm dạy 1:1 cho người Việt. Học qua hội thoại, tự tin sử dụng tiếng Trung mỗi ngày.",
+        "Mỗi buổi học được thiết kế riêng theo mục tiêu của bạn, có bài tập ôn luyện và nhận xét sau mỗi buổi."
+      ],
+      "certificates": [
+        "HSK 6 – 250/300 điểm",
+        "Chứng chỉ giảng dạy tiếng Trung quốc tế (CTCSOL)",
+        "Thạc sĩ Hán ngữ quốc tế – ĐH Sư phạm Bắc Kinh"
+      ],
+      "experience": [
+        {
+          "period": "2021 – nay",
+          "title": "Giáo viên 1:1 – MandarinConnect",
+          "description": "Hơn 1100 buổi học 1:1 với học viên Việt Nam."
+        },
+        {
+          "period": "2018 – 2021",
+          "title": "Phiên dịch viên – Công ty thương mại",
+          "description": "Giảng dạy lớp nhóm và hỗ trợ học viên luyện thi HSK."
+        }
+      ]
+    },
+    {
+      "id": "t22",
+      "name": "Đỗ Phương Thảo",
+      "avatar": "/images/teachers/portrait-4.jpg",
+      "hsk": 1,
+      "price": 300000,
+      "mode": "hybrid",
+      "rating": 4.5,
+      "reviews": 160,
+      "featured": false,
+      "bio": "Giao tiếp thực tế, phát âm chuẩn cho người mới bắt đầu.",
+      "ratingBreakdown": [
+        72,
+        88,
+        0,
+        0,
+        0
+      ],
+      "topics": "Giao tiếp · Phát âm · Người mới bắt đầu",
+      "intro": [
+        "Chào bạn, mình là Thảo – giáo viên tiếng Trung với 6 năm kinh nghiệm dạy 1:1 cho người Việt. Giao tiếp thực tế, phát âm chuẩn cho người mới bắt đầu.",
+        "Mỗi buổi học được thiết kế riêng theo mục tiêu của bạn, có bài tập ôn luyện và nhận xét sau mỗi buổi."
+      ],
+      "certificates": [
+        "HSK 5 – 257/300 điểm",
+        "Chứng chỉ giảng dạy tiếng Trung quốc tế (CTCSOL)",
+        "Cử nhân Ngôn ngữ Trung Quốc – ĐH Hà Nội"
+      ],
+      "experience": [
+        {
+          "period": "2021 – nay",
+          "title": "Giáo viên 1:1 – MandarinConnect",
+          "description": "Hơn 1140 buổi học 1:1 với học viên Việt Nam."
+        },
+        {
+          "period": "2018 – 2021",
+          "title": "Giáo viên – Trung tâm tiếng Trung tại Hà Nội",
+          "description": "Giảng dạy lớp nhóm và hỗ trợ học viên luyện thi HSK."
+        }
+      ]
+    },
+    {
+      "id": "t23",
+      "name": "Lý Thiên Vũ",
+      "avatar": "/images/teachers/portrait-5.jpg",
+      "hsk": 2,
+      "price": 100000,
+      "mode": "online",
+      "rating": 4.2,
+      "reviews": 171,
+      "featured": false,
+      "bio": "Luyện thi HSK với lộ trình rõ ràng và bài tập cá nhân.",
+      "ratingBreakdown": [
+        26,
+        145,
+        0,
+        0,
+        0
+      ],
+      "topics": "Giao tiếp · Phát âm · HSK 1–2",
+      "intro": [
+        "Chào bạn, mình là Vũ – giáo viên tiếng Trung với 7 năm kinh nghiệm dạy 1:1 cho người Việt. Luyện thi HSK với lộ trình rõ ràng và bài tập cá nhân.",
+        "Mỗi buổi học được thiết kế riêng theo mục tiêu của bạn, có bài tập ôn luyện và nhận xét sau mỗi buổi."
+      ],
+      "certificates": [
+        "HSK 5 – 264/300 điểm",
+        "Chứng chỉ giảng dạy tiếng Trung quốc tế (CTCSOL)",
+        "Cử nhân Sư phạm tiếng Trung – ĐH Ngoại ngữ, ĐHQGHN"
+      ],
+      "experience": [
+        {
+          "period": "2021 – nay",
+          "title": "Giáo viên 1:1 – MandarinConnect",
+          "description": "Hơn 1180 buổi học 1:1 với học viên Việt Nam."
+        },
+        {
+          "period": "2018 – 2021",
+          "title": "Trợ giảng – Khoa Ngôn ngữ Trung Quốc",
+          "description": "Giảng dạy lớp nhóm và hỗ trợ học viên luyện thi HSK."
+        }
+      ]
+    },
+    {
+      "id": "t24",
+      "name": "Ngô Hải Yến",
+      "avatar": "/images/teachers/portrait-6.jpg",
+      "hsk": 3,
+      "price": 160000,
+      "mode": "offline",
+      "rating": 4.7,
+      "reviews": 182,
+      "featured": false,
+      "bio": "Tiếng Trung thương mại và giao tiếp nơi công sở.",
+      "ratingBreakdown": [
+        119,
+        63,
+        0,
+        0,
+        0
+      ],
+      "topics": "Giao tiếp · Luyện thi HSK 3",
+      "intro": [
+        "Chào bạn, mình là Yến – giáo viên tiếng Trung với 8 năm kinh nghiệm dạy 1:1 cho người Việt. Tiếng Trung thương mại và giao tiếp nơi công sở.",
+        "Mỗi buổi học được thiết kế riêng theo mục tiêu của bạn, có bài tập ôn luyện và nhận xét sau mỗi buổi."
+      ],
+      "certificates": [
+        "HSK 5 – 271/300 điểm",
+        "Chứng chỉ giảng dạy tiếng Trung quốc tế (CTCSOL)",
+        "Thạc sĩ Hán ngữ quốc tế – ĐH Sư phạm Bắc Kinh"
+      ],
+      "experience": [
+        {
+          "period": "2021 – nay",
+          "title": "Giáo viên 1:1 – MandarinConnect",
+          "description": "Hơn 1220 buổi học 1:1 với học viên Việt Nam."
+        },
+        {
+          "period": "2018 – 2021",
+          "title": "Phiên dịch viên – Công ty thương mại",
+          "description": "Giảng dạy lớp nhóm và hỗ trợ học viên luyện thi HSK."
+        }
+      ]
+    }
+  ],
+  "courses": [
+    {
+      "id": "c1",
+      "art": "入门",
+      "title": "Tiếng Trung khởi đầu HSK 1–2",
+      "level": "HSK 1–2",
+      "levelGroup": "hsk12",
+      "goal": "Giao tiếp",
+      "badge": "Mới",
+      "sessions": 20,
+      "minutes": 60,
+      "price": 2400000,
+      "popularity": 1,
+      "description": "Lộ trình 20 buổi cho người mới bắt đầu: phát âm chuẩn, 300 từ vựng đầu tiên và các mẫu câu giao tiếp hằng ngày.",
+      "entry": "Chưa biết gì",
+      "exit": "HSK 2",
+      "teacherIds": [
+        "t10",
+        "t7",
+        "t4",
+        "t9"
+      ],
+      "roadmap": [
+        {
+          "label": "Buổi 1–4",
+          "content": "Pinyin, thanh điệu và phát âm chuẩn"
+        },
+        {
+          "label": "Buổi 5–8",
+          "content": "Chào hỏi, giới thiệu bản thân, số đếm"
+        },
+        {
+          "label": "Buổi 9–12",
+          "content": "Mua sắm, hỏi đường, gọi món"
+        },
+        {
+          "label": "Buổi 13–16",
+          "content": "Ngữ pháp HSK 1–2 trọng tâm"
+        },
+        {
+          "label": "Buổi 17–20",
+          "content": "Luyện đề HSK 2 và giao tiếp tổng hợp"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "art": "进阶",
+      "title": "Luyện thi HSK 3–4 cấp tốc",
+      "level": "HSK 3–4",
+      "levelGroup": "hsk34",
+      "goal": "Luyện thi",
+      "badge": "Phổ biến",
+      "sessions": 24,
+      "minutes": 90,
+      "price": 3600000,
+      "popularity": 2,
+      "description": "Lộ trình 24 buổi giúp bạn đi từ nền tảng HSK 2 lên HSK 4, tập trung vào dạng đề mới, kỹ năng nghe – đọc – viết và chiến lược làm bài. Bạn tự chọn giáo viên và giờ học phù hợp.",
+      "entry": "HSK 2",
+      "exit": "HSK 4 (≥ 210 điểm)",
+      "teacherIds": [
+        "t4",
+        "t1",
+        "t7",
+        "t10"
+      ],
+      "roadmap": [
+        {
+          "label": "Buổi 1–4",
+          "content": "Củng cố phát âm và 300 từ vựng HSK 3"
+        },
+        {
+          "label": "Buổi 5–8",
+          "content": "Ngữ pháp trọng tâm HSK 3: câu chữ 把, câu bị động 被, bổ ngữ kết quả"
+        },
+        {
+          "label": "Buổi 9–12",
+          "content": "Luyện nghe – đọc theo dạng đề HSK 3"
+        },
+        {
+          "label": "Buổi 13–16",
+          "content": "Từ vựng và ngữ pháp HSK 4"
+        },
+        {
+          "label": "Buổi 17–20",
+          "content": "Viết: sắp xếp câu, viết câu theo tranh, viết đoạn ngắn"
+        },
+        {
+          "label": "Buổi 21–24",
+          "content": "Thi thử 2 đề HSK 4 và chữa bài chi tiết"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "art": "商务",
+      "title": "Giao tiếp thương mại",
+      "level": "HSK 4+",
+      "levelGroup": "hsk34",
+      "goal": "Thương mại",
+      "badge": "Người đi làm",
+      "sessions": 16,
+      "minutes": 60,
+      "price": 3200000,
+      "popularity": 3,
+      "description": "Khoá học dành cho người đi làm: họp với đối tác, đàm phán giá, viết email và làm việc với nhà cung cấp Trung Quốc.",
+      "entry": "HSK 3",
+      "exit": "Giao tiếp công việc tự tin",
+      "teacherIds": [
+        "t1",
+        "t2",
+        "t3",
+        "t6"
+      ],
+      "roadmap": [
+        {
+          "label": "Buổi 1–4",
+          "content": "Giới thiệu công ty, sản phẩm và chào hỏi đối tác"
+        },
+        {
+          "label": "Buổi 5–8",
+          "content": "Hỏi giá, đàm phán và chốt đơn hàng"
+        },
+        {
+          "label": "Buổi 9–12",
+          "content": "Email, hợp đồng và chứng từ cơ bản"
+        },
+        {
+          "label": "Buổi 13–16",
+          "content": "Họp trực tuyến, thuyết trình và xử lý tình huống"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "art": "口语",
+      "title": "Giao tiếp hằng ngày",
+      "level": "HSK 1–2",
+      "levelGroup": "hsk12",
+      "goal": "Giao tiếp",
+      "badge": "Giao tiếp",
+      "sessions": 16,
+      "minutes": 60,
+      "price": 1920000,
+      "popularity": 4,
+      "description": "Luyện nói qua các tình huống quen thuộc để phản xạ tự nhiên, phát âm rõ ràng và tự tin trò chuyện với người bản xứ.",
+      "entry": "HSK 1",
+      "exit": "Giao tiếp cơ bản",
+      "teacherIds": [
+        "t9",
+        "t10",
+        "t7",
+        "t8"
+      ],
+      "roadmap": [
+        {
+          "label": "Buổi 1–4",
+          "content": "Chủ đề gia đình, sở thích, thời gian"
+        },
+        {
+          "label": "Buổi 5–8",
+          "content": "Mua sắm, ăn uống, đi lại"
+        },
+        {
+          "label": "Buổi 9–12",
+          "content": "Du lịch, khám bệnh, thuê nhà"
+        },
+        {
+          "label": "Buổi 13–16",
+          "content": "Hội thoại tự do và sửa lỗi phát âm"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "art": "高级",
+      "title": "Luyện thi HSK 5–6",
+      "level": "HSK 5–6",
+      "levelGroup": "hsk56",
+      "goal": "Luyện thi",
+      "badge": "Luyện thi",
+      "sessions": 30,
+      "minutes": 90,
+      "price": 5400000,
+      "popularity": 5,
+      "description": "Lộ trình chuyên sâu cho mục tiêu HSK 5–6: từ vựng học thuật, đọc hiểu văn bản dài và kỹ năng viết luận.",
+      "entry": "HSK 4",
+      "exit": "HSK 6 (≥ 180 điểm)",
+      "teacherIds": [
+        "t1",
+        "t2",
+        "t5",
+        "t3"
+      ],
+      "roadmap": [
+        {
+          "label": "Buổi 1–6",
+          "content": "Từ vựng và ngữ pháp nâng cao HSK 5"
+        },
+        {
+          "label": "Buổi 7–12",
+          "content": "Đọc hiểu văn bản dài, tóm tắt ý chính"
+        },
+        {
+          "label": "Buổi 13–18",
+          "content": "Nghe tin tức, hội thoại chuyên đề"
+        },
+        {
+          "label": "Buổi 19–24",
+          "content": "Viết luận và tóm tắt bài đọc"
+        },
+        {
+          "label": "Buổi 25–30",
+          "content": "Thi thử HSK 5–6 và chữa bài chi tiết"
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "art": "面试",
+      "title": "Tiếng Trung phỏng vấn xin việc",
+      "level": "HSK 3–4",
+      "levelGroup": "hsk34",
+      "goal": "Thương mại",
+      "badge": "Đi làm",
+      "sessions": 10,
+      "minutes": 60,
+      "price": 1500000,
+      "popularity": 6,
+      "description": "Chuẩn bị cho buổi phỏng vấn bằng tiếng Trung: giới thiệu bản thân, kinh nghiệm làm việc và trả lời câu hỏi tình huống.",
+      "entry": "HSK 3",
+      "exit": "Tự tin phỏng vấn",
+      "teacherIds": [
+        "t6",
+        "t8",
+        "t1",
+        "t3"
+      ],
+      "roadmap": [
+        {
+          "label": "Buổi 1–3",
+          "content": "CV, giới thiệu bản thân và điểm mạnh"
+        },
+        {
+          "label": "Buổi 4–7",
+          "content": "Câu hỏi phỏng vấn thường gặp theo ngành"
+        },
+        {
+          "label": "Buổi 8–10",
+          "content": "Phỏng vấn thử và nhận xét chi tiết"
+        }
+      ]
+    }
+  ],
+  "bookings": [
+    {
+      "id": "b3",
+      "code": "MC-2026-0003",
+      "userId": "u1",
+      "teacherId": "t1",
+      "start": "2026-10-06T19:00:00+07:00",
+      "duration": 60,
+      "coin": 350,
+      "status": "upcoming",
+      "reviewId": "r4",
+      "createdAt": "2026-10-05T18:20:00+07:00"
+    },
+    {
+      "id": "b4",
+      "code": "MC-2026-0004",
+      "userId": "u1",
+      "teacherId": "t4",
+      "start": "2026-10-11T19:00:00+07:00",
+      "duration": 60,
+      "coin": 280,
+      "status": "cancelled",
+      "reviewId": null,
+      "createdAt": "2026-10-09T21:02:00+07:00",
+      "cancelledAt": "2026-10-10T07:30:00+07:00"
+    },
+    {
+      "id": "b5",
+      "code": "MC-2026-0005",
+      "userId": "u1",
+      "teacherId": "t4",
+      "start": "2026-10-13T20:00:00+07:00",
+      "duration": 90,
+      "coin": 420,
+      "status": "upcoming",
+      "reviewId": null,
+      "createdAt": "2026-10-12T20:10:00+07:00"
+    },
+    {
+      "id": "b7",
+      "code": "MC-2026-0007",
+      "userId": "u1",
+      "teacherId": "t4",
+      "start": "2026-10-22T19:00:00+07:00",
+      "duration": 60,
+      "coin": 280,
+      "status": "upcoming",
+      "reviewId": null,
+      "createdAt": "2026-10-20T10:15:00+07:00"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "tr1",
+      "code": "NAP-2026-0001",
+      "userId": "u1",
+      "type": "topup",
+      "amount": 500,
+      "balanceAfter": 500,
+      "createdAt": "2026-10-01T09:12:00+07:00",
+      "description": "Nạp coin NAP-2026-0001 · Thẻ"
+    },
+    {
+      "id": "tr2",
+      "code": "MC-2026-0003",
+      "userId": "u1",
+      "type": "payment",
+      "amount": -350,
+      "balanceAfter": 150,
+      "createdAt": "2026-10-05T18:20:00+07:00",
+      "description": "Thanh toán buổi học MC-2026-0003"
+    },
+    {
+      "id": "tr3",
+      "code": "NAP-2026-0002",
+      "userId": "u1",
+      "type": "topup",
+      "amount": 500,
+      "balanceAfter": 650,
+      "createdAt": "2026-10-08T08:45:00+07:00",
+      "description": "Nạp coin NAP-2026-0002 · Chuyển khoản"
+    },
+    {
+      "id": "tr4",
+      "code": "MC-2026-0004",
+      "userId": "u1",
+      "type": "payment",
+      "amount": -280,
+      "balanceAfter": 370,
+      "createdAt": "2026-10-09T21:02:00+07:00",
+      "description": "Thanh toán buổi học MC-2026-0004"
+    },
+    {
+      "id": "tr5",
+      "code": "MC-2026-0004",
+      "userId": "u1",
+      "type": "refund",
+      "amount": 280,
+      "balanceAfter": 650,
+      "createdAt": "2026-10-10T07:30:00+07:00",
+      "description": "Hoàn coin buổi học MC-2026-0004 (đã huỷ)"
+    },
+    {
+      "id": "tr6",
+      "code": "MC-2026-0005",
+      "userId": "u1",
+      "type": "payment",
+      "amount": -420,
+      "balanceAfter": 230,
+      "createdAt": "2026-10-12T20:10:00+07:00",
+      "description": "Thanh toán buổi học MC-2026-0005"
+    },
+    {
+      "id": "tr7",
+      "code": "NAP-2026-0003",
+      "userId": "u1",
+      "type": "topup",
+      "amount": 500,
+      "balanceAfter": 730,
+      "createdAt": "2026-10-15T09:00:00+07:00",
+      "description": "Nạp coin NAP-2026-0003 · Ví điện tử"
+    },
+    {
+      "id": "tr8",
+      "code": "MC-2026-0007",
+      "userId": "u1",
+      "type": "payment",
+      "amount": -280,
+      "balanceAfter": 450,
+      "createdAt": "2026-10-20T10:15:00+07:00",
+      "description": "Thanh toán buổi học MC-2026-0007"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "r1",
+      "teacherId": "t1",
+      "userId": null,
+      "bookingId": null,
+      "author": "Minh Anh",
+      "rating": 5,
+      "content": "Thầy dạy dễ hiểu, giải thích ngữ pháp rất rõ. Sau 2 tháng mình đã tự tin gọi điện cho nhà cung cấp bằng tiếng Trung.",
+      "createdAt": "2026-10-10T20:00:00+07:00"
+    },
+    {
+      "id": "r2",
+      "teacherId": "t1",
+      "userId": null,
+      "bookingId": null,
+      "author": "Hoàng Long",
+      "rating": 5,
+      "content": "Buổi luyện HSK 5 rất sát đề, thầy chữa bài viết kỹ và chỉ ra những lỗi hay gặp.",
+      "createdAt": "2026-10-02T21:00:00+07:00"
+    },
+    {
+      "id": "r3",
+      "teacherId": "t1",
+      "userId": null,
+      "bookingId": null,
+      "author": "Thu Trang",
+      "rating": 4,
+      "content": "Lịch học linh hoạt, thầy nhiệt tình. Mong có thêm tài liệu ôn tập sau mỗi buổi.",
+      "createdAt": "2026-09-25T19:30:00+07:00"
+    },
+    {
+      "id": "r4",
+      "teacherId": "t1",
+      "userId": "u1",
+      "bookingId": "b3",
+      "author": "Thu Lan",
+      "rating": 5,
+      "content": "Thầy chuẩn bị bài kỹ, nhiều ví dụ thực tế trong công việc. Rất đáng học.",
+      "createdAt": "2026-10-06T21:00:00+07:00"
+    },
+    {
+      "id": "r5",
+      "teacherId": "t2",
+      "userId": null,
+      "bookingId": null,
+      "author": "Quỳnh Anh",
+      "rating": 5,
+      "content": "Giáo viên dạy nhiệt tình, sửa phát âm rất kỹ.",
+      "createdAt": "2026-10-16T20:00:00+07:00"
+    },
+    {
+      "id": "r6",
+      "teacherId": "t2",
+      "userId": null,
+      "bookingId": null,
+      "author": "Đức Minh",
+      "rating": 5,
+      "content": "Giáo trình rõ ràng, mỗi buổi đều có bài tập về nhà.",
+      "createdAt": "2026-09-21T20:00:00+07:00"
+    },
+    {
+      "id": "r7",
+      "teacherId": "t3",
+      "userId": null,
+      "bookingId": null,
+      "author": "Quỳnh Anh",
+      "rating": 5,
+      "content": "Giáo viên dạy nhiệt tình, sửa phát âm rất kỹ.",
+      "createdAt": "2026-10-19T20:00:00+07:00"
+    },
+    {
+      "id": "r8",
+      "teacherId": "t3",
+      "userId": null,
+      "bookingId": null,
+      "author": "Đức Minh",
+      "rating": 5,
+      "content": "Giáo trình rõ ràng, mỗi buổi đều có bài tập về nhà.",
+      "createdAt": "2026-09-24T20:00:00+07:00"
+    },
+    {
+      "id": "r9",
+      "teacherId": "t3",
+      "userId": null,
+      "bookingId": null,
+      "author": "Bảo Ngọc",
+      "rating": 4,
+      "content": "Buổi học vui, dễ hiểu. Mong có thêm phần luyện nghe.",
+      "createdAt": "2026-09-11T20:00:00+07:00"
+    },
+    {
+      "id": "r10",
+      "teacherId": "t4",
+      "userId": null,
+      "bookingId": null,
+      "author": "Quỳnh Anh",
+      "rating": 5,
+      "content": "Giáo viên dạy nhiệt tình, sửa phát âm rất kỹ.",
+      "createdAt": "2026-10-22T20:00:00+07:00"
+    },
+    {
+      "id": "r11",
+      "teacherId": "t4",
+      "userId": null,
+      "bookingId": null,
+      "author": "Đức Minh",
+      "rating": 5,
+      "content": "Giáo trình rõ ràng, mỗi buổi đều có bài tập về nhà.",
+      "createdAt": "2026-09-27T20:00:00+07:00"
+    },
+    {
+      "id": "r12",
+      "teacherId": "t5",
+      "userId": null,
+      "bookingId": null,
+      "author": "Quỳnh Anh",
+      "rating": 5,
+      "content": "Giáo viên dạy nhiệt tình, sửa phát âm rất kỹ.",
+      "createdAt": "2026-10-25T20:00:00+07:00"
+    },
+    {
+      "id": "r13",
+      "teacherId": "t5",
+      "userId": null,
+      "bookingId": null,
+      "author": "Đức Minh",
+      "rating": 5,
+      "content": "Giáo trình rõ ràng, mỗi buổi đều có bài tập về nhà.",
+      "createdAt": "2026-09-12T20:00:00+07:00"
+    },
+    {
+      "id": "r14",
+      "teacherId": "t5",
+      "userId": null,
+      "bookingId": null,
+      "author": "Bảo Ngọc",
+      "rating": 4,
+      "content": "Buổi học vui, dễ hiểu. Mong có thêm phần luyện nghe.",
+      "createdAt": "2026-09-17T20:00:00+07:00"
+    },
+    {
+      "id": "r15",
+      "teacherId": "t6",
+      "userId": null,
+      "bookingId": null,
+      "author": "Quỳnh Anh",
+      "rating": 5,
+      "content": "Giáo viên dạy nhiệt tình, sửa phát âm rất kỹ.",
+      "createdAt": "2026-10-10T20:00:00+07:00"
+    },
+    {
+      "id": "r16",
+      "teacherId": "t6",
+      "userId": null,
+      "bookingId": null,
+      "author": "Đức Minh",
+      "rating": 5,
+      "content": "Giáo trình rõ ràng, mỗi buổi đều có bài tập về nhà.",
+      "createdAt": "2026-09-15T20:00:00+07:00"
+    },
+    {
+      "id": "r17",
+      "teacherId": "t7",
+      "userId": null,
+      "bookingId": null,
+      "author": "Quỳnh Anh",
+      "rating": 5,
+      "content": "Giáo viên dạy nhiệt tình, sửa phát âm rất kỹ.",
+      "createdAt": "2026-10-13T20:00:00+07:00"
+    },
+    {
+      "id": "r18",
+      "teacherId": "t7",
+      "userId": null,
+      "bookingId": null,
+      "author": "Đức Minh",
+      "rating": 5,
+      "content": "Giáo trình rõ ràng, mỗi buổi đều có bài tập về nhà.",
+      "createdAt": "2026-09-18T20:00:00+07:00"
+    },
+    {
+      "id": "r19",
+      "teacherId": "t7",
+      "userId": null,
+      "bookingId": null,
+      "author": "Bảo Ngọc",
+      "rating": 4,
+      "content": "Buổi học vui, dễ hiểu. Mong có thêm phần luyện nghe.",
+      "createdAt": "2026-09-23T20:00:00+07:00"
+    },
+    {
+      "id": "r20",
+      "teacherId": "t8",
+      "userId": null,
+      "bookingId": null,
+      "author": "Quỳnh Anh",
+      "rating": 5,
+      "content": "Giáo viên dạy nhiệt tình, sửa phát âm rất kỹ.",
+      "createdAt": "2026-10-16T20:00:00+07:00"
+    },
+    {
+      "id": "r21",
+      "teacherId": "t8",
+      "userId": null,
+      "bookingId": null,
+      "author": "Đức Minh",
+      "rating": 5,
+      "content": "Giáo trình rõ ràng, mỗi buổi đều có bài tập về nhà.",
+      "createdAt": "2026-09-21T20:00:00+07:00"
+    },
+    {
+      "id": "r22",
+      "teacherId": "t9",
+      "userId": null,
+      "bookingId": null,
+      "author": "Quỳnh Anh",
+      "rating": 5,
+      "content": "Giáo viên dạy nhiệt tình, sửa phát âm rất kỹ.",
+      "createdAt": "2026-10-19T20:00:00+07:00"
+    },
+    {
+      "id": "r23",
+      "teacherId": "t9",
+      "userId": null,
+      "bookingId": null,
+      "author": "Đức Minh",
+      "rating": 5,
+      "content": "Giáo trình rõ ràng, mỗi buổi đều có bài tập về nhà.",
+      "createdAt": "2026-09-24T20:00:00+07:00"
+    },
+    {
+      "id": "r24",
+      "teacherId": "t9",
+      "userId": null,
+      "bookingId": null,
+      "author": "Bảo Ngọc",
+      "rating": 4,
+      "content": "Buổi học vui, dễ hiểu. Mong có thêm phần luyện nghe.",
+      "createdAt": "2026-09-11T20:00:00+07:00"
+    },
+    {
+      "id": "r25",
+      "teacherId": "t10",
+      "userId": null,
+      "bookingId": null,
+      "author": "Quỳnh Anh",
+      "rating": 5,
+      "content": "Giáo viên dạy nhiệt tình, sửa phát âm rất kỹ.",
+      "createdAt": "2026-10-22T20:00:00+07:00"
+    },
+    {
+      "id": "r26",
+      "teacherId": "t10",
+      "userId": null,
+      "bookingId": null,
+      "author": "Đức Minh",
+      "rating": 5,
+      "content": "Giáo trình rõ ràng, mỗi buổi đều có bài tập về nhà.",
+      "createdAt": "2026-09-27T20:00:00+07:00"
+    },
+    {
+      "id": "r27",
+      "teacherId": "t11",
+      "userId": null,
+      "bookingId": null,
+      "author": "Quỳnh Anh",
+      "rating": 5,
+      "content": "Giáo viên dạy nhiệt tình, sửa phát âm rất kỹ.",
+      "createdAt": "2026-10-25T20:00:00+07:00"
+    },
+    {
+      "id": "r28",
+      "teacherId": "t11",
+      "userId": null,
+      "bookingId": null,
+      "author": "Đức Minh",
+      "rating": 5,
+      "content": "Giáo trình rõ ràng, mỗi buổi đều có bài tập về nhà.",
+      "createdAt": "2026-09-12T20:00:00+07:00"
+    },
+    {
+      "id": "r29",
+      "teacherId": "t11",
+      "userId": null,
+      "bookingId": null,
+      "author": "Bảo Ngọc",
+      "rating": 4,
+      "content": "Buổi học vui, dễ hiểu. Mong có thêm phần luyện nghe.",
+      "createdAt": "2026-09-17T20:00:00+07:00"
+    },
+    {
+      "id": "r30",
+      "teacherId": "t12",
+      "userId": null,
+      "bookingId": null,
+      "author": "Quỳnh Anh",
+      "rating": 5,
+      "content": "Giáo viên dạy nhiệt tình, sửa phát âm rất kỹ.",
+      "createdAt": "2026-10-10T20:00:00+07:00"
+    },
+    {
+      "id": "r31",
+      "teacherId": "t12",
+      "userId": null,
+      "bookingId": null,
+      "author": "Đức Minh",
+      "rating": 5,
+      "content": "Giáo trình rõ ràng, mỗi buổi đều có bài tập về nhà.",
+      "createdAt": "2026-09-15T20:00:00+07:00"
+    },
+    {
+      "id": "r32",
+      "teacherId": "t13",
+      "userId": null,
+      "bookingId": null,
+      "author": "Quỳnh Anh",
+      "rating": 5,
+      "content": "Giáo viên dạy nhiệt tình, sửa phát âm rất kỹ.",
+      "createdAt": "2026-10-13T20:00:00+07:00"
+    },
+    {
+      "id": "r33",
+      "teacherId": "t13",
+      "userId": null,
+      "bookingId": null,
+      "author": "Đức Minh",
+      "rating": 5,
+      "content": "Giáo trình rõ ràng, mỗi buổi đều có bài tập về nhà.",
+      "createdAt": "2026-09-18T20:00:00+07:00"
+    },
+    {
+      "id": "r34",
+      "teacherId": "t13",
+      "userId": null,
+      "bookingId": null,
+      "author": "Bảo Ngọc",
+      "rating": 4,
+      "content": "Buổi học vui, dễ hiểu. Mong có thêm phần luyện nghe.",
+      "createdAt": "2026-09-23T20:00:00+07:00"
+    },
+    {
+      "id": "r35",
+      "teacherId": "t14",
+      "userId": null,
+      "bookingId": null,
+      "author": "Quỳnh Anh",
+      "rating": 5,
+      "content": "Giáo viên dạy nhiệt tình, sửa phát âm rất kỹ.",
+      "createdAt": "2026-10-16T20:00:00+07:00"
+    },
+    {
+      "id": "r36",
+      "teacherId": "t14",
+      "userId": null,
+      "bookingId": null,
+      "author": "Đức Minh",
+      "rating": 5,
+      "content": "Giáo trình rõ ràng, mỗi buổi đều có bài tập về nhà.",
+      "createdAt": "2026-09-21T20:00:00+07:00"
+    },
+    {
+      "id": "r37",
+      "teacherId": "t15",
+      "userId": null,
+      "bookingId": null,
+      "author": "Quỳnh Anh",
+      "rating": 5,
+      "content": "Giáo viên dạy nhiệt tình, sửa phát âm rất kỹ.",
+      "createdAt": "2026-10-19T20:00:00+07:00"
+    },
+    {
+      "id": "r38",
+      "teacherId": "t15",
+      "userId": null,
+      "bookingId": null,
+      "author": "Đức Minh",
+      "rating": 5,
+      "content": "Giáo trình rõ ràng, mỗi buổi đều có bài tập về nhà.",
+      "createdAt": "2026-09-24T20:00:00+07:00"
+    },
+    {
+      "id": "r39",
+      "teacherId": "t15",
+      "userId": null,
+      "bookingId": null,
+      "author": "Bảo Ngọc",
+      "rating": 4,
+      "content": "Buổi học vui, dễ hiểu. Mong có thêm phần luyện nghe.",
+      "createdAt": "2026-09-11T20:00:00+07:00"
+    },
+    {
+      "id": "r40",
+      "teacherId": "t16",
+      "userId": null,
+      "bookingId": null,
+      "author": "Quỳnh Anh",
+      "rating": 5,
+      "content": "Giáo viên dạy nhiệt tình, sửa phát âm rất kỹ.",
+      "createdAt": "2026-10-22T20:00:00+07:00"
+    },
+    {
+      "id": "r41",
+      "teacherId": "t16",
+      "userId": null,
+      "bookingId": null,
+      "author": "Đức Minh",
+      "rating": 5,
+      "content": "Giáo trình rõ ràng, mỗi buổi đều có bài tập về nhà.",
+      "createdAt": "2026-09-27T20:00:00+07:00"
+    },
+    {
+      "id": "r42",
+      "teacherId": "t17",
+      "userId": null,
+      "bookingId": null,
+      "author": "Quỳnh Anh",
+      "rating": 5,
+      "content": "Giáo viên dạy nhiệt tình, sửa phát âm rất kỹ.",
+      "createdAt": "2026-10-25T20:00:00+07:00"
+    },
+    {
+      "id": "r43",
+      "teacherId": "t17",
+      "userId": null,
+      "bookingId": null,
+      "author": "Đức Minh",
+      "rating": 5,
+      "content": "Giáo trình rõ ràng, mỗi buổi đều có bài tập về nhà.",
+      "createdAt": "2026-09-12T20:00:00+07:00"
+    },
+    {
+      "id": "r44",
+      "teacherId": "t17",
+      "userId": null,
+      "bookingId": null,
+      "author": "Bảo Ngọc",
+      "rating": 4,
+      "content": "Buổi học vui, dễ hiểu. Mong có thêm phần luyện nghe.",
+      "createdAt": "2026-09-17T20:00:00+07:00"
+    },
+    {
+      "id": "r45",
+      "teacherId": "t18",
+      "userId": null,
+      "bookingId": null,
+      "author": "Quỳnh Anh",
+      "rating": 5,
+      "content": "Giáo viên dạy nhiệt tình, sửa phát âm rất kỹ.",
+      "createdAt": "2026-10-10T20:00:00+07:00"
+    },
+    {
+      "id": "r46",
+      "teacherId": "t18",
+      "userId": null,
+      "bookingId": null,
+      "author": "Đức Minh",
+      "rating": 5,
+      "content": "Giáo trình rõ ràng, mỗi buổi đều có bài tập về nhà.",
+      "createdAt": "2026-09-15T20:00:00+07:00"
+    },
+    {
+      "id": "r47",
+      "teacherId": "t19",
+      "userId": null,
+      "bookingId": null,
+      "author": "Quỳnh Anh",
+      "rating": 5,
+      "content": "Giáo viên dạy nhiệt tình, sửa phát âm rất kỹ.",
+      "createdAt": "2026-10-13T20:00:00+07:00"
+    },
+    {
+      "id": "r48",
+      "teacherId": "t19",
+      "userId": null,
+      "bookingId": null,
+      "author": "Đức Minh",
+      "rating": 5,
+      "content": "Giáo trình rõ ràng, mỗi buổi đều có bài tập về nhà.",
+      "createdAt": "2026-09-18T20:00:00+07:00"
+    },
+    {
+      "id": "r49",
+      "teacherId": "t19",
+      "userId": null,
+      "bookingId": null,
+      "author": "Bảo Ngọc",
+      "rating": 4,
+      "content": "Buổi học vui, dễ hiểu. Mong có thêm phần luyện nghe.",
+      "createdAt": "2026-09-23T20:00:00+07:00"
+    },
+    {
+      "id": "r50",
+      "teacherId": "t20",
+      "userId": null,
+      "bookingId": null,
+      "author": "Quỳnh Anh",
+      "rating": 5,
+      "content": "Giáo viên dạy nhiệt tình, sửa phát âm rất kỹ.",
+      "createdAt": "2026-10-16T20:00:00+07:00"
+    },
+    {
+      "id": "r51",
+      "teacherId": "t20",
+      "userId": null,
+      "bookingId": null,
+      "author": "Đức Minh",
+      "rating": 5,
+      "content": "Giáo trình rõ ràng, mỗi buổi đều có bài tập về nhà.",
+      "createdAt": "2026-09-21T20:00:00+07:00"
+    },
+    {
+      "id": "r52",
+      "teacherId": "t21",
+      "userId": null,
+      "bookingId": null,
+      "author": "Quỳnh Anh",
+      "rating": 5,
+      "content": "Giáo viên dạy nhiệt tình, sửa phát âm rất kỹ.",
+      "createdAt": "2026-10-19T20:00:00+07:00"
+    },
+    {
+      "id": "r53",
+      "teacherId": "t21",
+      "userId": null,
+      "bookingId": null,
+      "author": "Đức Minh",
+      "rating": 5,
+      "content": "Giáo trình rõ ràng, mỗi buổi đều có bài tập về nhà.",
+      "createdAt": "2026-09-24T20:00:00+07:00"
+    },
+    {
+      "id": "r54",
+      "teacherId": "t21",
+      "userId": null,
+      "bookingId": null,
+      "author": "Bảo Ngọc",
+      "rating": 4,
+      "content": "Buổi học vui, dễ hiểu. Mong có thêm phần luyện nghe.",
+      "createdAt": "2026-09-11T20:00:00+07:00"
+    },
+    {
+      "id": "r55",
+      "teacherId": "t22",
+      "userId": null,
+      "bookingId": null,
+      "author": "Quỳnh Anh",
+      "rating": 5,
+      "content": "Giáo viên dạy nhiệt tình, sửa phát âm rất kỹ.",
+      "createdAt": "2026-10-22T20:00:00+07:00"
+    },
+    {
+      "id": "r56",
+      "teacherId": "t22",
+      "userId": null,
+      "bookingId": null,
+      "author": "Đức Minh",
+      "rating": 5,
+      "content": "Giáo trình rõ ràng, mỗi buổi đều có bài tập về nhà.",
+      "createdAt": "2026-09-27T20:00:00+07:00"
+    },
+    {
+      "id": "r57",
+      "teacherId": "t23",
+      "userId": null,
+      "bookingId": null,
+      "author": "Quỳnh Anh",
+      "rating": 5,
+      "content": "Giáo viên dạy nhiệt tình, sửa phát âm rất kỹ.",
+      "createdAt": "2026-10-25T20:00:00+07:00"
+    },
+    {
+      "id": "r58",
+      "teacherId": "t23",
+      "userId": null,
+      "bookingId": null,
+      "author": "Đức Minh",
+      "rating": 5,
+      "content": "Giáo trình rõ ràng, mỗi buổi đều có bài tập về nhà.",
+      "createdAt": "2026-09-12T20:00:00+07:00"
+    },
+    {
+      "id": "r59",
+      "teacherId": "t23",
+      "userId": null,
+      "bookingId": null,
+      "author": "Bảo Ngọc",
+      "rating": 4,
+      "content": "Buổi học vui, dễ hiểu. Mong có thêm phần luyện nghe.",
+      "createdAt": "2026-09-17T20:00:00+07:00"
+    },
+    {
+      "id": "r60",
+      "teacherId": "t24",
+      "userId": null,
+      "bookingId": null,
+      "author": "Quỳnh Anh",
+      "rating": 5,
+      "content": "Giáo viên dạy nhiệt tình, sửa phát âm rất kỹ.",
+      "createdAt": "2026-10-10T20:00:00+07:00"
+    },
+    {
+      "id": "r61",
+      "teacherId": "t24",
+      "userId": null,
+      "bookingId": null,
+      "author": "Đức Minh",
+      "rating": 5,
+      "content": "Giáo trình rõ ràng, mỗi buổi đều có bài tập về nhà.",
+      "createdAt": "2026-09-15T20:00:00+07:00"
+    }
+  ],
+  "users": [
+    {
+      "id": "u1",
+      "name": "Nguyễn Thu Lan",
+      "email": "lan@example.com",
+      "password": "matkhau123",
+      "phone": "0912 345 678",
+      "avatar": "",
+      "coinBalance": 450,
+      "level": "HSK 2",
+      "goal": "HSK 4 trong 6 tháng",
+      "preferredTimes": [
+        "Tối 18–22h",
+        "Cuối tuần"
+      ],
+      "progress": {
+        "done": 8,
+        "total": 20
+      },
+      "favorites": [],
+      "passwordChangedAt": "2026-10-12",
+      "createdAt": "2026-09-28T10:00:00+07:00"
+    }
+  ],
+  "faqs": [
+    {
+      "id": "f1",
+      "category": "Ví coin",
+      "question": "1 coin bằng bao nhiêu tiền?",
+      "answer": "1 coin = 1.000 đồng. Học phí của giáo viên được quy đổi sang coin để bạn dễ so sánh, ví dụ 280.000đ/giờ tương đương 280 coin cho buổi 60 phút."
+    },
+    {
+      "id": "f2",
+      "category": "Ví coin",
+      "question": "Tôi có thể nạp những gói coin nào?",
+      "answer": "Hiện có 3 gói: 100 coin (100.000đ), 300 coin (300.000đ) và 500 coin (500.000đ). Bạn nạp tại trang Ví coin bằng ví điện tử, chuyển khoản hoặc thẻ ngân hàng (mô phỏng)."
+    },
+    {
+      "id": "f3",
+      "category": "Đặt lịch",
+      "question": "Khi huỷ buổi học, tôi có được hoàn coin không?",
+      "answer": "Có. Bạn được huỷ bất cứ lúc nào trước giờ học và được hoàn 100% coin vào ví. Buổi học đã bắt đầu thì không thể huỷ."
+    },
+    {
+      "id": "f4",
+      "category": "Đặt lịch",
+      "question": "Làm sao để đổi lịch học?",
+      "answer": "Vào Dashboard, chọn Đổi lịch ở buổi học sắp tới rồi chọn một khung giờ trống trong 7 ngày tới. Thời lượng và học phí được giữ nguyên."
+    },
+    {
+      "id": "f5",
+      "category": "Buổi học",
+      "question": "Vào phòng học ở đâu?",
+      "answer": "Phòng học Google Meet mở trước giờ học 15 phút. Bạn bấm Vào phòng học trên Dashboard để tham gia."
+    },
+    {
+      "id": "f6",
+      "category": "Buổi học",
+      "question": "Khi nào tôi có thể đánh giá giáo viên?",
+      "answer": "Sau khi buổi học hoàn thành, bạn đánh giá tại trang Lịch sử buổi học. Mỗi buổi được đánh giá một lần và có thể chỉnh sửa trong 7 ngày."
+    },
+    {
+      "id": "f7",
+      "category": "Tài khoản",
+      "question": "Tôi quên mật khẩu thì phải làm sao?",
+      "answer": "Chọn Quên mật khẩu ở trang Đăng nhập và nhập email đã đăng ký. Liên kết đặt lại mật khẩu có hiệu lực trong 30 phút."
+    }
+  ],
+  "tickets": []
+}
