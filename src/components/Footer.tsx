@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import { Clock, Mail, MessageCircle } from 'lucide-react'
 
 const columns = [
   {
@@ -18,7 +19,11 @@ const columns = [
     ],
   },
 ]
-const socials = ['Facebook', 'YouTube', 'TikTok']
+const socials = [
+  ['Facebook', 'Fb'],
+  ['YouTube', 'Yt'],
+  ['TikTok', 'Tt'],
+]
 
 export default function Footer({ compact = false }: { compact?: boolean }) {
   if (compact)
@@ -30,15 +35,32 @@ export default function Footer({ compact = false }: { compact?: boolean }) {
     )
   return (
     <footer className="site-footer">
+      <span className="footer-watermark" aria-hidden="true">
+        知行
+      </span>
       <div className="shell footer-grid">
         <div>
           <Link to="/" className="brand">
             <span className="brand-mark" aria-hidden="true">
               中
             </span>
-            Tri Hành Viện
+            <span className="brand-text">
+              Tri Hành Viện
+              <small>Học tiếng Trung 1:1</small>
+            </span>
           </Link>
           <p>Nền tảng học tiếng Trung 1:1 với giáo viên bản ngữ và giáo viên Việt Nam.</p>
+          <div className="footer-contact">
+            <span>
+              <Mail size={15} /> hotro@mandarinconnect.vn
+            </span>
+            <span>
+              <Clock size={15} /> 8:00 – 21:00, Thứ Hai – Chủ nhật
+            </span>
+            <span>
+              <MessageCircle size={15} /> Phản hồi trong vòng 24 giờ
+            </span>
+          </div>
         </div>
         {columns.map((column) => (
           <div key={column.title}>
@@ -52,14 +74,22 @@ export default function Footer({ compact = false }: { compact?: boolean }) {
         ))}
         <div>
           <h3>Kết nối</h3>
-          {socials.map((name) => (
-            <a key={name} href="#" onClick={(event) => event.preventDefault()}>
-              {name}
-            </a>
-          ))}
+          <p>Mỗi tuần một mẹo học tiếng Trung, ngắn gọn và dễ nhớ.</p>
+          <div className="footer-socials">
+            {socials.map(([name, short]) => (
+              <a key={name} href="#" aria-label={name} title={name} onClick={(event) => event.preventDefault()}>
+                {short}
+              </a>
+            ))}
+          </div>
         </div>
       </div>
-      <div className="shell footer-bottom">© 2026 Tri Hành Viện — Đồ án tốt nghiệp</div>
+      <div className="shell footer-bottom">
+        <span>© 2026 Tri Hành Viện — Đồ án tốt nghiệp</span>
+        <span>
+          <span lang="zh">知行合一</span> · Biết đi đôi với làm
+        </span>
+      </div>
     </footer>
   )
 }

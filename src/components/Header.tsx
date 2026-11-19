@@ -19,6 +19,7 @@ const accountItems = [
 export default function Header() {
   const [open, setOpen] = useState(false)
   const [menu, setMenu] = useState(false)
+  const [scrolled, setScrolled] = useState(false)
   const { user } = useAuth()
   const navigate = useNavigate()
   const { pathname } = useLocation()
@@ -36,17 +37,27 @@ export default function Header() {
     return () => document.removeEventListener('click', close)
   }, [])
 
+  useEffect(() => {
+    const onScroll = () => setScrolled(window.scrollY > 8)
+    onScroll()
+    window.addEventListener('scroll', onScroll, { passive: true })
+    return () => window.removeEventListener('scroll', onScroll)
+  }, [])
+
   // Đăng xuất qua route /logout để rời trang được bảo vệ trước khi xoá phiên
   const signOut = () => navigate('/logout')
 
   return (
-    <header className="site-header">
+    <header className={scrolled ? 'site-header is-scrolled' : 'site-header'}>
       <div className="shell header-inner">
         <Link to="/" className="brand">
           <span className="brand-mark" aria-hidden="true">
             中
           </span>
-          <span>Tri Hành Viện</span>
+          <span className="brand-text">
+            Tri Hành Viện
+            <small>Học tiếng Trung 1:1</small>
+          </span>
         </Link>
         <nav aria-label="Điều hướng chính" className={open ? 'main-nav is-open' : 'main-nav'}>
           {navItems.map((item) => (
