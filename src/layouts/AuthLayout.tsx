@@ -1,12 +1,10 @@
 import { useEffect } from 'react'
 import { useLocation, useNavigate } from 'react-router-dom'
 import { X } from 'lucide-react'
-import MainLayout from './MainLayout'
-import Home from '../pages/Home'
 
 export type AuthState = { from?: string; back?: string } | null
 
-/** M01–M03: biểu mẫu xác thực hiển thị dạng cửa sổ nổi trên nền Trang chủ (theo Figma tuần 8) */
+/** M01–M03: biểu mẫu xác thực hiển thị dạng cửa sổ nổi trên nền trang trí chữ Hán */
 export default function AuthLayout({ children }: { children: React.ReactNode }) {
   const navigate = useNavigate()
   const state = useLocation().state as AuthState
@@ -25,10 +23,21 @@ export default function AuthLayout({ children }: { children: React.ReactNode }) 
 
   return (
     <>
-      <div className="auth-backdrop-page" inert aria-hidden="true">
-        <MainLayout>
-          <Home />
-        </MainLayout>
+      <div className="auth-scene" aria-hidden="true">
+        <span className="auth-orb orb-1" />
+        <span className="auth-orb orb-2" />
+        <span className="auth-orb orb-3" />
+        <span className="auth-han han-1" lang="zh">学</span>
+        <span className="auth-han han-2" lang="zh">行</span>
+        <span className="auth-han han-3" lang="zh">知</span>
+        <span className="auth-han han-4" lang="zh">好</span>
+        <div className="auth-scene-brand">
+          <span className="brand-mark">中</span>
+          <span>
+            <strong>Tri Hành Viện</strong>
+            <small>Học tiếng Trung 1:1 · Biết đi đôi với làm</small>
+          </span>
+        </div>
       </div>
       <div className="auth-overlay" onMouseDown={(event) => event.target === event.currentTarget && close()}>
         <section className="auth-sheet" role="dialog" aria-modal="true" aria-labelledby="auth-title">

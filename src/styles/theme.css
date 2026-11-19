@@ -6,22 +6,24 @@
    ===================================================================== */
 :root {
   /* Thương hiệu */
-  --brand: #be222a;
-  --brand-strong: #9b1a21;
-  --brand-soft: #fbeeee;
-  --brand-line: #f2cfd1;
-  --brand-disabled: #e3a4a8;
-  --brand-glow: rgb(190 34 42 / 0.28);
-  --maroon: #4c0e11;
-  --maroon-deep: #2a0a0c;
-  --gold: #d4a02a;
-  --gold-strong: #9a6b12;
+  --brand: #d4474d;
+  --brand-strong: #b83c43;
+  --brand-soft: #fdf4f3;
+  --brand-line: #f5d9da;
+  --brand-disabled: #ecbdc0;
+  --brand-glow: rgb(212 71 77 / 0.22);
+  --maroon: #94464c;
+  --maroon-deep: #5c2327;
+  --dark-soft: #c45d63;
+  --dark-softer: #b8545b;
+  --gold: #dcb04a;
+  --gold-strong: #a97c2a;
   --gold-soft: #fbf3df;
 
   /* Trung tính ấm */
-  --ink: #3a0f12;
-  --ink-2: #5a3236;
-  --muted: #7d6466;
+  --ink: #6e4044;
+  --ink-2: #755256;
+  --muted: #8f7a7c;
   --subtle: #b39d9f;
   --line: #f0e4e4;
   --line-strong: #e4cfd0;
@@ -137,7 +139,7 @@ html .reveal.is-visible {
 .brand {
   gap: 10px;
   color: var(--maroon);
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 800;
   letter-spacing: -0.4px;
 }
@@ -146,7 +148,7 @@ html .reveal.is-visible {
   line-height: 1.15;
 }
 .brand-text small {
-  font-size: 11px;
+  font-size: 10px;
   font-weight: 500;
   letter-spacing: 0;
   color: var(--muted);
@@ -160,7 +162,7 @@ html .reveal.is-visible {
   background: var(--brand);
   box-shadow: inset 0 0 0 2px rgb(255 255 255 / 0.18);
   font-family: var(--font-han);
-  font-size: 21px;
+  font-size: 19px;
   font-weight: 900;
   transition: transform 0.35s var(--ease-out);
 }
@@ -178,7 +180,7 @@ html .reveal.is-visible {
 .main-nav {
   gap: 2px;
   margin-left: 22px;
-  font-size: 14.5px;
+  font-size: 13px;
   align-self: stretch;
   align-items: stretch;
 }
@@ -232,7 +234,7 @@ html .reveal.is-visible {
   color: var(--brand);
 }
 .header-search input {
-  font-size: 13px;
+  font-size: 11.5px;
 }
 .header-auth .outline-button.small {
   border-color: transparent;
@@ -517,7 +519,7 @@ html .reveal.is-visible {
 .popular-tag {
   border-radius: 999px;
   font-weight: 600;
-  font-size: 11px;
+  font-size: 10px;
   padding: 3px 9px;
 }
 .level-tag {
@@ -596,8 +598,8 @@ html .reveal.is-visible {
   color: #f6cfd1;
 }
 .course-tone-c4 .course-art {
-  background: var(--maroon);
-  color: #f3d58c;
+  background: var(--dark-soft);
+  color: #fff3d0;
 }
 .course-tone-c4 .course-art-label,
 .course-tone-c4 .course-art-caption {
@@ -628,7 +630,7 @@ html .reveal.is-visible {
    ===================================================================== */
 .eyebrow {
   color: var(--brand);
-  font-size: 13px;
+  font-size: 11.5px;
   font-weight: 600;
   letter-spacing: 0;
   text-transform: none;
@@ -639,14 +641,14 @@ html .reveal.is-visible {
   margin-bottom: 30px;
 }
 .section-heading .eyebrow {
-  font-size: 13px;
+  font-size: 11.5px;
   margin-bottom: 8px;
 }
 .section-heading h2,
 .home-cta h2,
 .mx-benefits-head h2 {
   color: var(--maroon);
-  font-size: clamp(26px, 2.6vw, 36px);
+  font-size: clamp(23.5px, 2.6vw, 32.5px);
   font-weight: 800;
   line-height: 1.2;
   letter-spacing: -1px;
@@ -654,12 +656,12 @@ html .reveal.is-visible {
 }
 .section-sub {
   color: var(--muted);
-  font-size: 15px;
+  font-size: 13.5px;
   margin-top: 10px;
 }
 .heading-actions .text-link,
 .text-link.plain {
-  font-size: 14px;
+  font-size: 12.5px;
 }
 
 /* =====================================================================
@@ -680,7 +682,7 @@ html .reveal.is-visible {
 .mx-strip {
   overflow: hidden;
   padding-block: 28px 0;
-  mask-image: linear-gradient(90deg, transparent, #000 6%, #000 94%, transparent);
+  border-radius: 20px;
 }
 .mx-strip-track {
   display: flex;
@@ -721,11 +723,11 @@ html .reveal.is-visible {
 .mx-tile strong {
   font-family: var(--font-brush);
   font-weight: 400;
-  font-size: 44px;
+  font-size: 39.5px;
   line-height: 1;
 }
 .mx-tile small {
-  font-size: 12px;
+  font-size: 11px;
   font-weight: 500;
   opacity: 0.85;
 }
@@ -738,8 +740,8 @@ html .reveal.is-visible {
   color: var(--gold-strong);
 }
 .mx-tile.tone-2 {
-  background: var(--maroon);
-  color: #f3d58c;
+  background: var(--dark-soft);
+  color: #fff3d0;
 }
 .mx-tile.tone-3 {
   background: #fff;
@@ -789,7 +791,7 @@ html .reveal.is-visible {
   border-radius: 999px;
   background: #fff;
   color: var(--brand);
-  font-size: 13px;
+  font-size: 11.5px;
   font-weight: 600;
   margin-bottom: 26px;
   transition:
@@ -821,7 +823,7 @@ html .reveal.is-visible {
   }
 }
 .mx-hero h1 {
-  font-size: clamp(38px, 4.6vw, 64px);
+  font-size: clamp(34px, 4.6vw, 57.5px);
   font-weight: 800;
   line-height: 1.08;
   letter-spacing: -0.04em;
@@ -836,7 +838,7 @@ html .reveal.is-visible {
 }
 .mx-lead {
   max-width: 540px;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.65;
   color: var(--ink-2);
   margin: 0 0 34px;
@@ -848,7 +850,7 @@ html .reveal.is-visible {
 }
 .mx-cta {
   padding: 15px 28px;
-  font-size: 16px;
+  font-size: 14.5px;
   min-width: 0;
 }
 .mx-ghost {
@@ -861,7 +863,7 @@ html .reveal.is-visible {
   border: 1px solid var(--line-strong);
   background: #fff;
   color: var(--maroon);
-  font-size: 16px;
+  font-size: 14.5px;
   font-weight: 600;
   transition:
     background-color 0.15s,
@@ -912,7 +914,7 @@ html .reveal.is-visible {
   color: var(--gold);
 }
 .mx-proof small {
-  font-size: 13px;
+  font-size: 11.5px;
   color: var(--muted);
 }
 
@@ -966,14 +968,14 @@ html .reveal.is-visible {
   min-width: 0;
 }
 .mx-booking-head strong {
-  font-size: 15px;
+  font-size: 13.5px;
   color: var(--maroon);
 }
 .mx-booking-head small {
   display: inline-flex;
   align-items: center;
   gap: 4px;
-  font-size: 12px;
+  font-size: 11px;
   color: var(--muted);
 }
 .mx-booking-head small svg {
@@ -988,7 +990,7 @@ html .reveal.is-visible {
   border-radius: 999px;
   background: #f0fdf4;
   color: var(--success);
-  font-size: 11px;
+  font-size: 10px;
   font-weight: 600;
   white-space: nowrap;
 }
@@ -1003,7 +1005,7 @@ html .reveal.is-visible {
   padding: 18px 20px 20px;
 }
 .mx-booking-body > p {
-  font-size: 12px;
+  font-size: 11px;
   font-weight: 600;
   color: var(--muted);
   margin: 0 0 12px;
@@ -1021,16 +1023,16 @@ html .reveal.is-visible {
   padding: 8px 0;
   border-radius: 12px;
   border: 1px solid var(--line);
-  font-size: 11px;
+  font-size: 10px;
   color: var(--muted);
 }
 .mx-days b {
-  font-size: 15px;
+  font-size: 13.5px;
   color: var(--maroon);
 }
 .mx-days .is-on {
-  background: var(--maroon);
-  border-color: var(--maroon);
+  background: var(--dark-soft);
+  border-color: var(--dark-soft);
   color: #d9b8ba;
 }
 .mx-days .is-on b {
@@ -1046,7 +1048,7 @@ html .reveal.is-visible {
   text-align: center;
   border-radius: 999px;
   border: 1px solid var(--line-strong);
-  font-size: 13px;
+  font-size: 11.5px;
   font-weight: 500;
   font-variant-numeric: tabular-nums;
 }
@@ -1081,7 +1083,7 @@ html .reveal.is-visible {
   background: var(--surface-2);
 }
 .mx-booking-foot small {
-  font-size: 12px;
+  font-size: 11px;
   color: var(--muted);
 }
 .mx-booking-foot > div > small:first-child {
@@ -1089,7 +1091,7 @@ html .reveal.is-visible {
   margin-bottom: 2px;
 }
 .mx-booking-foot strong {
-  font-size: 18px;
+  font-size: 16px;
   color: var(--maroon);
 }
 .mx-book-btn {
@@ -1100,7 +1102,7 @@ html .reveal.is-visible {
   border-radius: 999px;
   background: var(--brand);
   color: #fff;
-  font-size: 14px;
+  font-size: 12.5px;
   font-weight: 600;
   transition: background-color 0.15s;
 }
@@ -1136,19 +1138,19 @@ html .reveal.is-visible {
 }
 .mx-float-word strong {
   font-family: var(--font-brush);
-  font-size: 32px;
+  font-size: 29px;
   font-weight: 400;
   color: var(--brand);
   line-height: 1;
 }
 .mx-float-word span {
   display: grid;
-  font-size: 13px;
+  font-size: 11.5px;
   font-weight: 600;
   color: var(--maroon);
 }
 .mx-float-word small {
-  font-size: 11px;
+  font-size: 10px;
   font-weight: 400;
   color: var(--muted);
 }
@@ -1173,11 +1175,11 @@ html .reveal.is-visible {
   gap: 2px;
 }
 .mx-float-call strong {
-  font-size: 13px;
+  font-size: 11.5px;
   color: var(--maroon);
 }
 .mx-float-call small {
-  font-size: 11px;
+  font-size: 10px;
   color: var(--muted);
 }
 @keyframes thv-float {
@@ -1206,7 +1208,7 @@ html .reveal.is-visible {
   border-left: 1px solid var(--line);
 }
 .mx-stats strong {
-  font-size: 34px;
+  font-size: 30.5px;
   font-weight: 800;
   letter-spacing: -1.2px;
   line-height: 1;
@@ -1214,7 +1216,7 @@ html .reveal.is-visible {
   font-variant-numeric: tabular-nums;
 }
 .mx-stats > div > span {
-  font-size: 14px;
+  font-size: 12.5px;
   color: var(--muted);
 }
 
@@ -1252,7 +1254,7 @@ html .reveal.is-visible {
   background: var(--brand-soft);
   color: var(--brand);
   font-family: var(--font-brush);
-  font-size: 30px;
+  font-size: 27px;
   line-height: 1;
   transition:
     background-color 0.25s,
@@ -1264,19 +1266,19 @@ html .reveal.is-visible {
   color: var(--gold-strong);
 }
 .mx-goals .goal-card:nth-child(3) .goal-han {
-  background: var(--maroon);
-  color: #f3d58c;
+  background: var(--dark-soft);
+  color: #fff3d0;
 }
 .mx-goals .goal-card:hover .goal-han {
   transform: rotate(-6deg) scale(1.05);
 }
 .mx-goals .goal-card strong {
-  font-size: 18px;
+  font-size: 16px;
   letter-spacing: -0.3px;
   color: var(--maroon);
 }
 .mx-goals .goal-card small {
-  font-size: 14px;
+  font-size: 12.5px;
   color: var(--muted);
   line-height: 1.5;
 }
@@ -1286,7 +1288,7 @@ html .reveal.is-visible {
   gap: 6px;
   margin-top: 6px;
   color: var(--brand);
-  font-size: 14px;
+  font-size: 12.5px;
   font-weight: 600;
 }
 .goal-card:hover .goal-more svg {
@@ -1316,7 +1318,7 @@ html .reveal.is-visible {
   left: -30px;
   bottom: -90px;
   font-family: var(--font-brush);
-  font-size: 360px;
+  font-size: 324px;
   line-height: 1;
   color: rgb(190 34 42 / 0.06);
   pointer-events: none;
@@ -1338,7 +1340,7 @@ html .reveal.is-visible {
   margin-bottom: 16px;
 }
 .mx-benefits-head > p:not(.eyebrow) {
-  font-size: 16px;
+  font-size: 14.5px;
   line-height: 1.65;
   color: var(--ink-2);
   margin: 0 0 24px;
@@ -1377,13 +1379,13 @@ html .reveal.is-visible {
 }
 .mx-benefits .benefit-grid h3 {
   margin: 18px 0 8px;
-  font-size: 17px;
+  font-size: 15.5px;
   font-weight: 700;
   color: var(--maroon);
 }
 .mx-benefits .benefit-grid p {
   margin: 0;
-  font-size: 14px;
+  font-size: 12.5px;
   line-height: 1.65;
   color: var(--muted);
 }
@@ -1426,24 +1428,24 @@ html .reveal.is-visible {
 }
 .journey-grid .step-han {
   font-family: var(--font-brush);
-  font-size: 40px;
+  font-size: 36px;
   line-height: 1;
   color: var(--brand);
 }
 .journey-grid .step-no {
-  font-size: 13px;
+  font-size: 11.5px;
   font-weight: 600;
   color: var(--muted);
 }
 .journey-grid h3 {
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 700;
   letter-spacing: -0.3px;
   color: var(--maroon);
   margin: 0 0 10px;
 }
 .journey-grid p {
-  font-size: 15px;
+  font-size: 13.5px;
   line-height: 1.65;
   color: var(--muted);
   margin: 0;
@@ -1462,8 +1464,8 @@ html .reveal.is-visible {
   padding: 64px;
   border-radius: 28px;
   background:
-    radial-gradient(600px 300px at 100% 0%, rgb(190 34 42 / 0.55), transparent 70%),
-    var(--maroon);
+    radial-gradient(600px 300px at 100% 0%, rgb(255 255 255 / 0.22), transparent 70%),
+    var(--dark-soft);
   color: #fff;
 }
 .home-cta-han {
@@ -1473,19 +1475,19 @@ html .reveal.is-visible {
   top: 50%;
   translate: 0 -50%;
   font-family: var(--font-brush);
-  font-size: 150px;
+  font-size: 135px;
   line-height: 1.2;
   color: rgb(243 213 140 / 0.16);
   pointer-events: none;
 }
 .home-cta p {
-  font-size: 15px;
+  font-size: 13.5px;
   color: #e3b9bc;
   margin: 0 0 10px;
 }
 .home-cta h2 {
   color: #fff;
-  font-size: clamp(28px, 3vw, 40px);
+  font-size: clamp(25px, 3vw, 36px);
   max-width: 720px;
 }
 .home-cta h2 [lang='zh'] {
@@ -1499,7 +1501,7 @@ html .reveal.is-visible {
 }
 .home-cta .primary-link {
   padding: 15px 26px;
-  font-size: 15px;
+  font-size: 13.5px;
   min-width: 0;
   white-space: nowrap;
   background: #fff;
@@ -1519,8 +1521,8 @@ html .reveal.is-visible {
   overflow: hidden;
   isolation: isolate;
   margin-top: 0;
-  background: var(--maroon-deep);
-  color: #c9aeb0;
+  background: var(--dark-softer);
+  color: rgb(255 255 255 / 0.85);
 }
 .app-frame > main:has(.mx-hero) + .site-footer {
   margin-top: 112px;
@@ -1532,7 +1534,7 @@ html .reveal.is-visible {
   right: 3%;
   bottom: -60px;
   font-family: var(--font-brush);
-  font-size: 260px;
+  font-size: 234px;
   line-height: 1;
   color: rgb(255 255 255 / 0.04);
   pointer-events: none;
@@ -1545,21 +1547,21 @@ html .reveal.is-visible {
   color: #fff;
 }
 .site-footer .brand-text small {
-  color: #c9aeb0;
+  color: rgb(255 255 255 / 0.85);
 }
 .site-footer p {
-  color: #c9aeb0;
+  color: rgb(255 255 255 / 0.85);
   line-height: 1.7;
 }
 .footer-grid h3 {
   color: #fff;
-  font-size: 14px;
+  font-size: 12.5px;
   font-weight: 600;
   letter-spacing: 0;
   text-transform: none;
 }
 .footer-grid a:not(.brand) {
-  color: #c9aeb0;
+  color: rgb(255 255 255 / 0.85);
   width: fit-content;
   transition: color 0.15s;
 }
@@ -1581,7 +1583,7 @@ html .reveal.is-visible {
   background: rgb(255 255 255 / 0.06);
   border: 1px solid rgb(255 255 255 / 0.1);
   color: #f1e3e4;
-  font-size: 12px;
+  font-size: 11px;
   font-weight: 600;
   transition:
     background-color 0.15s,
@@ -1596,7 +1598,7 @@ html .reveal.is-visible {
 .footer-contact {
   display: grid;
   gap: 8px;
-  font-size: 13px;
+  font-size: 11.5px;
   margin-top: 16px;
 }
 .footer-contact span {
@@ -1613,8 +1615,8 @@ html .reveal.is-visible {
   justify-content: space-between;
   gap: 10px;
   border-top: 1px solid rgb(255 255 255 / 0.1);
-  color: #9c7f81;
-  font-size: 13px;
+  color: rgb(255 255 255 / 0.7);
+  font-size: 11.5px;
   padding-block: 24px;
 }
 .compact-footer {
@@ -1663,7 +1665,7 @@ html .reveal.is-visible {
    XÁC THỰC, MODAL, TOAST
    ===================================================================== */
 .auth-overlay {
-  background: rgb(42 10 12 / 0.45);
+  background: rgb(120 50 56 / 0.35);
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
   animation: thv-fade 0.25s ease-out;
@@ -1693,7 +1695,7 @@ html .reveal.is-visible {
   animation: thv-sheet-in 0.35s var(--ease-out);
 }
 .modal::backdrop {
-  background: rgb(42 10 12 / 0.45);
+  background: rgb(120 50 56 / 0.35);
   backdrop-filter: blur(3px);
 }
 .toast {
@@ -1781,7 +1783,7 @@ html .reveal.is-visible {
   .brand-mark {
     width: 34px;
     height: 34px;
-    font-size: 18px;
+    font-size: 16px;
   }
   .main-nav {
     align-self: auto;
@@ -1825,30 +1827,30 @@ html .reveal.is-visible {
     border-radius: 12px;
   }
   .mx-tile strong {
-    font-size: 32px;
+    font-size: 29px;
   }
   .mx-tile small {
-    font-size: 11px;
+    font-size: 10px;
   }
   .mx-hero-inner {
     padding-block: 36px 96px;
     gap: 64px;
   }
   .mx-badge {
-    font-size: 12px;
+    font-size: 11px;
     margin-bottom: 20px;
   }
   .mx-hero h1 {
-    font-size: clamp(32px, 9vw, 42px);
+    font-size: clamp(29px, 9vw, 38px);
   }
   .mx-lead {
-    font-size: 16px;
+    font-size: 14.5px;
     margin-bottom: 26px;
   }
   .mx-actions > a {
     flex: 1;
     padding-inline: 16px;
-    font-size: 15px;
+    font-size: 13.5px;
     white-space: nowrap;
   }
   .mx-proof {
@@ -1860,7 +1862,7 @@ html .reveal.is-visible {
     padding: 10px 12px;
   }
   .mx-float-word strong {
-    font-size: 26px;
+    font-size: 23.5px;
   }
   .mx-float-call {
     right: 12px;
@@ -1881,10 +1883,10 @@ html .reveal.is-visible {
     padding: 20px 18px;
   }
   .mx-stats strong {
-    font-size: 28px;
+    font-size: 25px;
   }
   .mx-stats > div > span {
-    font-size: 13px;
+    font-size: 11.5px;
   }
   .section-heading {
     margin-bottom: 22px;
@@ -1896,7 +1898,7 @@ html .reveal.is-visible {
   .mx-goals .goal-han {
     width: 60px;
     height: 60px;
-    font-size: 26px;
+    font-size: 23.5px;
   }
   .featured-section .teacher-rail {
     grid-auto-columns: 82%;
@@ -1906,7 +1908,7 @@ html .reveal.is-visible {
     margin-top: 64px;
   }
   .mx-band::after {
-    font-size: 220px;
+    font-size: 198px;
   }
   .mx-benefits {
     padding-block: 52px;
@@ -1928,7 +1930,7 @@ html .reveal.is-visible {
     border-radius: 22px;
   }
   .home-cta-han {
-    font-size: 110px;
+    font-size: 99px;
     top: auto;
     bottom: -20px;
     translate: none;
@@ -1944,7 +1946,7 @@ html .reveal.is-visible {
     padding-block: 44px 28px;
   }
   .footer-watermark {
-    font-size: 180px;
+    font-size: 162px;
   }
   .back-to-top {
     right: 14px;
@@ -1960,6 +1962,115 @@ html .reveal.is-visible {
   }
 }
 
+/* ---------- Màn hình lớn (Full HD → 2K → 4K) ---------- */
+@media (min-width: 1800px) {
+  .shell {
+    width: min(1560px, calc(100% - 200px));
+  }
+  .header-inner {
+    min-height: 78px;
+  }
+  .main-nav {
+    font-size: 14.5px;
+  }
+  .brand {
+    font-size: 18px;
+  }
+  .brand-mark {
+    width: 42px;
+    height: 42px;
+  }
+  .mx-strip {
+    padding-block: 36px 0;
+  }
+  .mx-strip-set,
+  .mx-strip-pair {
+    gap: 18px;
+  }
+  .mx-strip-set {
+    padding-right: 18px;
+  }
+  .mx-strip img,
+  .mx-tile {
+    width: 210px;
+    height: 150px;
+    border-radius: 20px;
+  }
+  .mx-tile strong {
+    font-size: 48.5px;
+  }
+  .mx-tile small {
+    font-size: 12.5px;
+  }
+  .mx-hero-inner {
+    gap: 96px;
+    padding-block: 96px 128px;
+  }
+  .mx-hero h1 {
+    font-size: 65px;
+  }
+  .mx-lead {
+    max-width: 620px;
+    font-size: 18px;
+  }
+  .mx-cta,
+  .mx-ghost {
+    padding: 17px 32px;
+    font-size: 15.5px;
+  }
+  .mx-hero-visual {
+    max-width: 560px;
+  }
+}
+@media (min-width: 2400px) {
+  .shell {
+    width: min(1880px, calc(100% - 320px));
+  }
+  .header-inner {
+    min-height: 88px;
+  }
+  .main-nav {
+    font-size: 16px;
+  }
+  .brand {
+    font-size: 20.5px;
+  }
+  .brand-mark {
+    width: 48px;
+    height: 48px;
+    font-size: 22.5px;
+  }
+  .mx-strip {
+    padding-block: 44px 0;
+  }
+  .mx-strip img,
+  .mx-tile {
+    width: 260px;
+    height: 186px;
+    border-radius: 24px;
+  }
+  .mx-tile strong {
+    font-size: 59.5px;
+  }
+  .mx-tile small {
+    font-size: 14.5px;
+  }
+  .mx-hero-inner {
+    gap: 128px;
+    padding-block: 120px 160px;
+  }
+  .mx-hero h1 {
+    font-size: 79px;
+  }
+  .mx-lead {
+    max-width: 720px;
+    font-size: 20.5px;
+  }
+  .mx-hero-visual {
+    max-width: 660px;
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   html {
     scroll-behavior: auto;
@@ -1969,6 +2080,135 @@ html .reveal.is-visible {
     translate: none;
   }
   .mx-strip-track {
+    animation: none;
+  }
+}
+
+/* ---------- Nền trang đăng nhập / đăng ký ---------- */
+.auth-scene {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+  background:
+    radial-gradient(900px 520px at 12% 8%, #fcefee 0%, transparent 62%),
+    radial-gradient(800px 560px at 92% 92%, #fdf6e6 0%, transparent 64%),
+    linear-gradient(135deg, #fffaf9 0%, #fef4f3 55%, #fffaf2 100%);
+}
+.auth-orb {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(2px);
+  animation: thv-float 14s ease-in-out infinite;
+}
+.auth-orb.orb-1 {
+  width: 380px;
+  height: 380px;
+  left: -90px;
+  bottom: -110px;
+  background: radial-gradient(circle at 30% 30%, rgb(212 71 77 / 0.1), rgb(212 71 77 / 0.02) 70%);
+}
+.auth-orb.orb-2 {
+  width: 260px;
+  height: 260px;
+  right: 8%;
+  top: -80px;
+  background: radial-gradient(circle at 30% 30%, rgb(220 176 74 / 0.14), rgb(220 176 74 / 0.02) 70%);
+  animation-delay: -5s;
+}
+.auth-orb.orb-3 {
+  width: 150px;
+  height: 150px;
+  left: 22%;
+  top: 16%;
+  background: radial-gradient(circle at 30% 30%, rgb(212 71 77 / 0.07), transparent 70%);
+  animation-delay: -9s;
+}
+@keyframes thv-float {
+  50% {
+    transform: translateY(-22px) scale(1.04);
+  }
+}
+.auth-han {
+  position: absolute;
+  font-family: var(--font-brush);
+  line-height: 1;
+  color: var(--brand);
+  opacity: 0.05;
+  user-select: none;
+}
+.auth-han.han-1 {
+  font-size: min(34vw, 460px);
+  left: 3%;
+  bottom: -8%;
+  transform: rotate(-8deg);
+}
+.auth-han.han-2 {
+  font-size: min(26vw, 340px);
+  right: 5%;
+  top: 6%;
+  color: var(--gold);
+  opacity: 0.09;
+  transform: rotate(7deg);
+}
+.auth-han.han-3 {
+  font-size: min(16vw, 210px);
+  right: 22%;
+  bottom: 6%;
+  opacity: 0.04;
+  transform: rotate(-4deg);
+}
+.auth-han.han-4 {
+  font-size: min(12vw, 150px);
+  left: 25%;
+  top: 8%;
+  opacity: 0.04;
+}
+.auth-scene-brand {
+  position: absolute;
+  left: clamp(24px, 6vw, 96px);
+  top: 32px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  color: var(--maroon);
+}
+.auth-scene-brand .brand-mark {
+  display: grid;
+  place-items: center;
+  width: 42px;
+  height: 42px;
+  border-radius: 11px;
+  background: var(--brand);
+  opacity: 0.9;
+  color: #fff;
+  font-family: var(--font-han);
+  font-size: 22px;
+  font-weight: 900;
+}
+.auth-scene-brand strong {
+  display: block;
+  font-size: 18px;
+  font-weight: 800;
+  letter-spacing: -0.4px;
+}
+.auth-scene-brand small {
+  font-size: 12px;
+  color: var(--muted);
+}
+.auth-overlay {
+  background: transparent;
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+}
+.auth-sheet {
+  border: 1px solid var(--brand-line);
+  box-shadow:
+    0 1px 3px rgb(148 70 76 / 0.04),
+    0 28px 70px -28px rgb(148 70 76 / 0.2);
+}
+@media (prefers-reduced-motion: reduce) {
+  .auth-orb {
     animation: none;
   }
 }

@@ -18,7 +18,7 @@
   display: inline-flex;
   align-items: center;
   gap: 9px;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 750;
   color: var(--ink);
   white-space: nowrap;
@@ -32,7 +32,7 @@
   background: var(--brand);
   color: white;
   border-radius: 7px;
-  font-size: 25px;
+  font-size: 22.5px;
   line-height: 1;
   font-weight: 700;
   flex-shrink: 0;
@@ -42,7 +42,7 @@
   gap: 28px;
   margin-left: 30px;
   color: var(--muted);
-  font-size: 14px;
+  font-size: 12.5px;
   white-space: nowrap;
 }
 .main-nav a.active {
@@ -67,7 +67,7 @@
   background: transparent;
   border: 0;
   outline: 0;
-  font-size: 12px;
+  font-size: 11px;
   color: var(--ink);
 }
 .icon-button {
@@ -100,14 +100,14 @@
   padding-block: 54px;
 }
 .hero-content h1 {
-  font-size: 42px;
+  font-size: 38px;
   line-height: 1.25;
   font-weight: 750;
   max-width: 740px;
   margin: 0 0 28px;
 }
 .hero-content > p {
-  font-size: 16px;
+  font-size: 14.5px;
   line-height: 1.8;
   color: var(--muted);
   margin-bottom: 46px;
@@ -125,7 +125,7 @@
   border: 0;
   border-radius: 6px;
   padding: 13px 20px;
-  font-size: 13px;
+  font-size: 11.5px;
   font-weight: 650;
   min-width: 168px;
   cursor: pointer;
@@ -152,7 +152,7 @@
   margin-bottom: 36px;
 }
 .section-heading h2 {
-  font-size: 28px;
+  font-size: 25px;
   font-weight: 700;
   line-height: 1.35;
   margin: 0;
@@ -162,7 +162,7 @@
   align-items: center;
   gap: 8px;
   color: var(--brand);
-  font-size: 14px;
+  font-size: 12.5px;
   font-weight: 650;
   white-space: nowrap;
 }
@@ -199,7 +199,7 @@
   color: var(--subtle);
 }
 .teacher-title h3 {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 700;
   line-height: 1.35;
   margin: 0 0 9px;
@@ -218,7 +218,7 @@
   align-items: center;
   border-radius: 16px;
   padding: 4px 11px;
-  font-size: 11px;
+  font-size: 10px;
   line-height: 1.3;
   font-weight: 500;
 }
@@ -240,7 +240,7 @@
   align-items: center;
   gap: 4px;
   flex-wrap: wrap;
-  font-size: 12px;
+  font-size: 11px;
   color: var(--muted);
   margin: 10px 0;
 }
@@ -256,11 +256,11 @@
   margin-bottom: 11px;
 }
 .teacher-bottom strong {
-  font-size: 15px;
+  font-size: 13.5px;
 }
 .teacher-bottom small {
   color: var(--muted);
-  font-size: 12px;
+  font-size: 11px;
 }
 .rail-controls {
   display: flex;
@@ -291,14 +291,14 @@
   justify-content: center;
   background: var(--brand-soft);
   color: var(--brand);
-  font-size: 58px;
+  font-size: 52px;
   font-weight: 750;
 }
 .course-body {
   padding: 16px;
 }
 .course-body h3 {
-  font-size: 19px;
+  font-size: 17px;
   font-weight: 650;
   margin: 13px 0 11px;
   line-height: 1.4;
@@ -307,7 +307,7 @@
   display: flex;
   gap: 7px;
   align-items: center;
-  font-size: 13px;
+  font-size: 11.5px;
   color: var(--muted);
   margin-bottom: 14px;
 }
@@ -319,7 +319,7 @@
   align-items: center;
 }
 .course-bottom strong {
-  font-size: 15px;
+  font-size: 13.5px;
 }
 .benefits-section {
   padding-top: 68px;
@@ -340,7 +340,7 @@
   color: var(--brand);
 }
 .benefit-grid h3 {
-  font-size: 15px;
+  font-size: 13.5px;
   font-weight: 650;
   margin: 20px 0 0;
 }
@@ -358,38 +358,38 @@
   padding-block: 60px 30px;
 }
 .footer-grid p {
-  font-size: 13px;
+  font-size: 11.5px;
   line-height: 1.6;
   margin-top: 16px;
   max-width: 300px;
 }
 .footer-grid h3 {
   color: var(--line);
-  font-size: 13px;
+  font-size: 11.5px;
   font-weight: 600;
   margin-bottom: 16px;
 }
 .footer-grid > div > a:not(.brand) {
   display: block;
-  font-size: 13px;
+  font-size: 11.5px;
   margin-bottom: 12px;
 }
 .footer-bottom {
   border-top: 1px solid var(--ink-2);
   padding-block: 30px;
-  font-size: 12px;
+  font-size: 11px;
 }
 .teachers-page {
   padding-block: 48px 56px;
 }
 .teachers-page > h1 {
-  font-size: 34px;
+  font-size: 30.5px;
   font-weight: 750;
   margin: 0 0 12px;
   line-height: 1.3;
 }
 .page-intro {
-  font-size: 15px;
+  font-size: 13.5px;
   color: var(--muted);
   margin-bottom: 56px;
 }
@@ -416,14 +416,14 @@
   display: flex;
   align-items: center;
   gap: 8px;
-  font-size: 16px;
+  font-size: 14.5px;
   font-weight: 700;
 }
 .reset-button {
   display: inline-flex;
   align-items: center;
   gap: 5px;
-  font-size: 12px;
+  font-size: 11px;
   color: var(--muted);
   cursor: pointer;
   background: none;
@@ -437,7 +437,7 @@
 .filter-fields legend,
 .filter-label {
   display: block;
-  font-size: 13px;
+  font-size: 11.5px;
   font-weight: 650;
   margin-bottom: 12px;
 }
@@ -462,7 +462,7 @@
   border: 1px solid var(--line);
   border-radius: 4px;
   cursor: pointer;
-  font-size: 12px;
+  font-size: 11px;
   background: white;
 }
 .hsk-options input:checked + span {
@@ -475,7 +475,7 @@
 }
 .filter-label strong {
   display: block;
-  font-size: 12px;
+  font-size: 11px;
   color: var(--brand);
   margin-top: 8px;
   font-weight: 500;
@@ -496,7 +496,7 @@
   border: 1px solid var(--line);
   background: white;
   border-radius: 6px;
-  font-size: 12px;
+  font-size: 11px;
   padding: 11px;
   max-width: 100%;
 }
@@ -520,7 +520,7 @@
   min-width: 0;
   border: 0;
   background: transparent;
-  font-size: 14px;
+  font-size: 12.5px;
   outline: 0;
   color: var(--ink);
 }
@@ -532,7 +532,7 @@
   margin-block: 20px;
 }
 .results-toolbar p {
-  font-size: 13px;
+  font-size: 11.5px;
   color: var(--muted);
 }
 .results-toolbar > div {
@@ -557,7 +557,7 @@
   display: flex;
   gap: 7px;
   align-items: center;
-  font-size: 11px;
+  font-size: 10px;
   color: var(--brand);
   border: 1px solid var(--brand-line);
   background: var(--brand-soft);
@@ -581,7 +581,7 @@
   border-radius: 6px;
   border: 1px solid var(--line);
   background: white;
-  font-size: 13px;
+  font-size: 11.5px;
   cursor: pointer;
 }
 .pagination button[aria-current] {
@@ -602,20 +602,20 @@
   color: var(--brand-line);
 }
 .empty-state h2 {
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 650;
   margin-block: 18px 10px;
 }
 .empty-state p {
   color: var(--muted);
-  font-size: 14px;
+  font-size: 12.5px;
   margin-bottom: 20px;
 }
 .error-state {
   padding: 28px;
   background: var(--brand-soft);
   color: var(--brand-strong);
-  font-size: 14px;
+  font-size: 12.5px;
 }
 .error-state button {
   text-decoration: underline;
@@ -667,13 +667,13 @@
     width: 210px;
   }
   .brand {
-    font-size: 18px;
+    font-size: 16px;
   }
   .hero-inner {
     gap: 40px;
   }
   .hero-content h1 {
-    font-size: 36px;
+    font-size: 32.5px;
   }
   .teacher-rail {
     gap: 24px;
@@ -705,13 +705,13 @@
     grid-template-columns: 1.4fr 1fr;
   }
   .hero-content > p {
-    font-size: 14px;
+    font-size: 12.5px;
   }
   .footer-grid {
     gap: 24px;
   }
   .site-footer .brand {
-    font-size: 16px;
+    font-size: 14.5px;
   }
 }
 @media (max-width: 767px) {
@@ -723,13 +723,13 @@
     gap: 8px;
   }
   .brand {
-    font-size: 16px;
+    font-size: 14.5px;
     gap: 7px;
   }
   .brand-mark {
     width: 30px;
     height: 30px;
-    font-size: 22px;
+    font-size: 20px;
   }
   .mobile-menu {
     margin-left: auto;
@@ -759,11 +759,11 @@
     min-height: 0;
   }
   .hero-content h1 {
-    font-size: 30px;
+    font-size: 27px;
     margin-bottom: 28px;
   }
   .hero-content > p {
-    font-size: 14px;
+    font-size: 12.5px;
     margin-bottom: 26px;
   }
   .hero-actions {
@@ -788,10 +788,10 @@
     margin-bottom: 24px;
   }
   .section-heading h2 {
-    font-size: 23px;
+    font-size: 20.5px;
   }
   .text-link {
-    font-size: 12px;
+    font-size: 11px;
   }
   .teacher-rail {
     grid-auto-flow: row;
@@ -823,7 +823,7 @@
     gap: 8px;
   }
   .benefit-grid h3 {
-    font-size: 14px;
+    font-size: 12.5px;
     margin: 0;
   }
   .footer-grid {
@@ -835,16 +835,16 @@
     grid-column: 1 / -1;
   }
   .footer-bottom {
-    font-size: 11px;
+    font-size: 10px;
   }
   .teachers-page {
     padding-top: 30px;
   }
   .teachers-page > h1 {
-    font-size: 28px;
+    font-size: 25px;
   }
   .page-intro {
-    font-size: 14px;
+    font-size: 12.5px;
     line-height: 1.7;
   }
   .teachers-layout {
@@ -871,7 +871,7 @@
     border: 1px solid var(--line);
     border-radius: 6px;
     padding: 10px 12px;
-    font-size: 12px;
+    font-size: 11px;
   }
   .pagination {
     display: none;
@@ -886,7 +886,7 @@
     background: white;
     border: 1px solid var(--line);
     border-radius: 6px;
-    font-size: 14px;
+    font-size: 12.5px;
     margin-top: 24px;
     cursor: pointer;
   }
@@ -917,19 +917,19 @@
     gap: 6px;
   }
   .header-inner .brand {
-    font-size: 14px;
+    font-size: 12.5px;
     gap: 5px;
   }
   .header-inner .brand-mark {
     width: 26px;
     height: 26px;
-    font-size: 20px;
+    font-size: 18px;
   }
   .header-inner .mobile-menu {
     width: 28px;
   }
   .hero-content h1 {
-    font-size: 27px;
+    font-size: 24.5px;
   }
   .teacher-rail {
     width: calc(100% - 24px);

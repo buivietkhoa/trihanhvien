@@ -104,7 +104,7 @@ export default function Home() {
     <>
       {/* ---------- Banner ---------- */}
       <section className="mx-hero">
-        <div className="mx-strip" aria-hidden="true">
+        <div className="mx-strip shell" aria-hidden="true">
           <div className="mx-strip-track">
             {[0, 1].map((copy) => (
               <div key={copy} className="mx-strip-set">
