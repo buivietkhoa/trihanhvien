@@ -1,7 +1,7 @@
 import type { Booking, Course, Faq, Review, Transaction, User } from '../types'
 import type { TeacherProfile, TeacherQuery } from '../types/teacher'
 
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3001'
+const API_URL = import.meta.env.VITE_API_URL || 'http://127.0.0.1:3002'
 // Bản build triển khai tĩnh (Vercel) không có JSON Server: dùng máy chủ giả lập trong trình duyệt.
 // Đặt VITE_API_URL=local để dùng chế độ này cả khi chạy trên máy.
 const USE_LOCAL = import.meta.env.VITE_API_URL === 'local' || (import.meta.env.PROD && !import.meta.env.VITE_API_URL)

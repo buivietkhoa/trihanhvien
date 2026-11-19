@@ -1,6 +1,6 @@
 export type BookingDraft = { teacherId: string; start: string; duration: number }
 
-const KEY = 'mc_booking_draft'
+const KEY = 'thv_booking_draft'
 
 export const saveDraft = (draft: BookingDraft) => sessionStorage.setItem(KEY, JSON.stringify(draft))
 export const clearDraft = () => sessionStorage.removeItem(KEY)

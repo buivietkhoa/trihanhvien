@@ -52,7 +52,7 @@ export default function Contact() {
     <div className="shell page-pad">
       <header className="page-title">
         <h1>Liên hệ hỗ trợ</h1>
-        <p>Gửi câu hỏi hoặc vấn đề bạn gặp, đội ngũ MandarinConnect sẽ phản hồi qua email</p>
+        <p>Gửi câu hỏi hoặc vấn đề bạn gặp, đội ngũ Tri Hành Viện sẽ phản hồi qua email</p>
       </header>
       <div className="profile-layout">
         <form className="card section-card" onSubmit={submit} noValidate>

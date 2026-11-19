@@ -11,6 +11,14 @@ export default function TeacherResultCard({ teacher }: { teacher: TeacherProfile
     <article className="teacher-card">
       <div className="teacher-avatar-placeholder" aria-hidden="true">
         <UserRound size={36} strokeWidth={1.8} />
+        {teacher.avatar && (
+          <img
+            src={teacher.avatar}
+            alt=""
+            loading="lazy"
+            onError={(event) => { event.currentTarget.style.display = 'none' }}
+          />
+        )}
       </div>
       <div className="teacher-body">
         <div className="teacher-title">
@@ -25,6 +33,7 @@ export default function TeacherResultCard({ teacher }: { teacher: TeacherProfile
           <strong>{teacher.rating.toFixed(1)}</strong>
           <span>({teacher.reviews} đánh giá)</span>
         </div>
+        <p className="teacher-topics">{teacher.topics}</p>
         <div className="teacher-bottom">
           <div>
             <strong>{formatPrice(teacher.price)}đ</strong>

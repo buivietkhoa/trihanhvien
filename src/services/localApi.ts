@@ -10,7 +10,7 @@ import seed from '../../db.json'
 type Row = Record<string, unknown> & { id: string }
 type Db = Record<string, Row[]>
 
-const STORAGE_KEY = 'mc_local_db_v1'
+const STORAGE_KEY = 'thv_local_db_v1'
 
 function load(): Db {
   try {

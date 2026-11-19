@@ -5,9 +5,9 @@ import { formatPrice } from '../utils/format'
 
 export default function CourseCard({ course }: { course: Course }) {
   return (
-    <article className="course-card">
+    <article className={`course-card course-tone-${course.id}`}>
       <div className="course-art" lang="zh">
-        {course.art}
+        <span className="course-art-label" lang="vi">TRI HÀNH VIỆN · {course.level}</span><span>{course.art}</span><span className="course-art-caption" lang="vi">Mỗi bài học, một bước tiến.</span>
       </div>
       <div className="course-body">
         <div className="course-tags">

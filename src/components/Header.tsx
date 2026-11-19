@@ -46,7 +46,7 @@ export default function Header() {
           <span className="brand-mark" aria-hidden="true">
             中
           </span>
-          <span>MandarinConnect</span>
+          <span>Tri Hành Viện</span>
         </Link>
         <nav aria-label="Điều hướng chính" className={open ? 'main-nav is-open' : 'main-nav'}>
           {navItems.map((item) => (

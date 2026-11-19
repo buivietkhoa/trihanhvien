@@ -1292,6 +1292,18 @@
       "status": "upcoming",
       "reviewId": null,
       "createdAt": "2026-10-20T10:15:00+07:00"
+    },
+    {
+      "id": "b1794651199738",
+      "code": "MC-2026-0008",
+      "userId": "u1794651126293",
+      "teacherId": "t1",
+      "start": "2026-10-25T08:00:00+07:00",
+      "duration": 90,
+      "coin": 525,
+      "status": "upcoming",
+      "reviewId": null,
+      "createdAt": "2026-10-22T15:45:00+07:00"
     }
   ],
   "transactions": [
@@ -1374,6 +1386,36 @@
       "balanceAfter": 450,
       "createdAt": "2026-10-20T10:15:00+07:00",
       "description": "Thanh toán buổi học MC-2026-0007"
+    },
+    {
+      "id": "tr1794651136636",
+      "code": "NAP-2026-0004",
+      "userId": "u1794651126293",
+      "type": "topup",
+      "amount": 300,
+      "balanceAfter": 300,
+      "createdAt": "2026-10-22T15:45:00+07:00",
+      "description": "Nạp coin NAP-2026-0004 · Ví điện tử"
+    },
+    {
+      "id": "tr1794651185766",
+      "code": "NAP-2026-0005",
+      "userId": "u1794651126293",
+      "type": "topup",
+      "amount": 500,
+      "balanceAfter": 800,
+      "createdAt": "2026-10-22T15:45:00+07:00",
+      "description": "Nạp coin NAP-2026-0005 · Ví điện tử"
+    },
+    {
+      "id": "tr1794651199784",
+      "code": "MC-2026-0008",
+      "userId": "u1794651126293",
+      "type": "payment",
+      "amount": -525,
+      "balanceAfter": 275,
+      "createdAt": "2026-10-22T15:45:00+07:00",
+      "description": "Thanh toán buổi học MC-2026-0008"
     }
   ],
   "reviews": [
@@ -2010,6 +2052,25 @@
       "favorites": [],
       "passwordChangedAt": "2026-10-12",
       "createdAt": "2026-09-28T10:00:00+07:00"
+    },
+    {
+      "id": "u1794651126293",
+      "name": "Bui Viet Khoa",
+      "email": "kbui77999@gmail.com",
+      "password": "Khoabui2003",
+      "phone": "",
+      "avatar": "",
+      "coinBalance": 275,
+      "level": "HSK 1",
+      "goal": "HSK 3 trong 3 tháng",
+      "preferredTimes": [],
+      "progress": {
+        "done": 0,
+        "total": 20
+      },
+      "favorites": [],
+      "passwordChangedAt": "2026-10-22",
+      "createdAt": "2026-10-22T15:45:00+07:00"
     }
   ],
   "faqs": [

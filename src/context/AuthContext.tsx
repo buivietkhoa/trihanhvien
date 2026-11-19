@@ -3,7 +3,7 @@ import type { User } from '../types'
 import { createUser, findUserByEmail, getUser, updateUser } from '../services/api'
 import { now, toIso } from '../utils/time'
 
-const STORAGE_KEY = 'mc_user_id'
+const STORAGE_KEY = 'thv_user_id'
 
 type AuthValue = {
   user: User | null

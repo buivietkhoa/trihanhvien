@@ -24,7 +24,7 @@ export default function Footer({ compact = false }: { compact?: boolean }) {
   if (compact)
     return (
       <footer className="compact-footer">
-        © 2026 MandarinConnect · Hỗ trợ: <Link to="/faq">Câu hỏi thường gặp</Link> ·{' '}
+        © 2026 Tri Hành Viện · Hỗ trợ: <Link to="/faq">Câu hỏi thường gặp</Link> ·{' '}
         <Link to="/faq?category=Đặt lịch">Chính sách huỷ lịch</Link>
       </footer>
     )
@@ -36,7 +36,7 @@ export default function Footer({ compact = false }: { compact?: boolean }) {
             <span className="brand-mark" aria-hidden="true">
               中
             </span>
-            MandarinConnect
+            Tri Hành Viện
           </Link>
           <p>Nền tảng học tiếng Trung 1:1 với giáo viên bản ngữ và giáo viên Việt Nam.</p>
         </div>
@@ -59,7 +59,7 @@ export default function Footer({ compact = false }: { compact?: boolean }) {
           ))}
         </div>
       </div>
-      <div className="shell footer-bottom">© 2026 MandarinConnect — Đồ án tốt nghiệp</div>
+      <div className="shell footer-bottom">© 2026 Tri Hành Viện — Đồ án tốt nghiệp</div>
     </footer>
   )
 }

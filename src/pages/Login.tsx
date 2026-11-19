@@ -38,7 +38,7 @@ export default function Login() {
   return (
     <form className="auth-form" onSubmit={submit} noValidate>
       <h1 id="auth-title">Đăng nhập</h1>
-      <p className="muted">Chào mừng bạn quay lại MandarinConnect</p>
+      <p className="muted">Chào mừng bạn quay lại Tri Hành Viện</p>
       {error && (
         <div className="alert alert-error" role="alert">
           <CircleAlert size={18} /> {error}

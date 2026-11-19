@@ -2,11 +2,12 @@
 @import './styles/module1.css';
 @import './styles/teachers.css';
 @import './styles/pages.css';
+@import './styles/youth.css';
 @theme {
-  --color-primary-50: #fff0f3;
-  --color-primary-100: #ffe1e8;
-  --color-primary-600: #d10b32;
-  --color-primary-700: #b7092a;
+  --color-primary-50: #fff2ed;
+  --color-primary-100: #ffdfd3;
+  --color-primary-600: #c54132;
+  --color-primary-700: #a93327;
   --color-secondary-500: #f5b800;
   --color-secondary-600: #d99f00;
   --color-success: #16a34a;
@@ -40,7 +41,7 @@ a {
   text-decoration: none;
 }
 :focus-visible {
-  outline: 2px solid #d10b32;
+  outline: 2px solid #c54132;
   outline-offset: 3px;
 }
 button:disabled {

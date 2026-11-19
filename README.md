@@ -1,4 +1,4 @@
-# MandarinConnect
+# Tri Hành Viện
 
 Front-end website học tiếng Trung 1:1, đủ 17 màn hình M01–M17 theo sitemap và thiết kế Figma (tuần 5–8).
 
@@ -15,8 +15,8 @@ Mở hai terminal:
 
 ```bash
 npm install
-npm run mock   # Mock API tại http://localhost:3001 (sửa tay db.json thì cần tắt và chạy lại)
-npm run dev    # Website tại http://localhost:5173
+npm run mock   # Mock API tại http://127.0.0.1:3002 (sửa tay db.json thì cần tắt và chạy lại)
+npm run dev    # Website tại http://localhost:5174
 ```
 
 Tài khoản demo: `lan@example.com` / `matkhau123`. Kiểm tra bản build bằng `npm run build`.
@@ -65,3 +65,10 @@ Tài khoản demo: `lan@example.com` / `matkhau123`. Kiểm tra bản build bằ
 - "Thời điểm hiện tại" của bản demo cố định là Thứ Năm 22/10/2026 15:45, khớp kịch bản Figma. Đặt `VITE_DEMO_NOW=real` để dùng giờ thật của máy.
 - Đăng nhập, thanh toán và gửi email đều là mô phỏng. Mật khẩu lưu dạng chữ thường trong `db.json` nên chỉ dùng cho demo.
 - Lịch bận của giáo viên được sinh cố định theo thuật toán, kết hợp với các buổi đã đặt thật trong `db.json`.
+
+## Chạy độc lập với bản MandarinConnect
+
+- Tri Hành Viện dùng cổng web 5174, API 3002 và preview 4174. Nếu cổng web hoặc preview bị chiếm, ứng dụng báo lỗi để tránh chạy lẫn với bản khác.
+- Chạy các lệnh trong chính thư mục Tri Hành Viện để JSON Server đọc/ghi đúng db.json của bản này.
+- Dữ liệu trình duyệt và phiên đăng nhập dùng các khóa riêng có tiền tố thv_.
+- Nếu tự đặt VITE_API_URL, hãy trỏ tới API riêng của Tri Hành Viện để giữ dữ liệu tách biệt.
